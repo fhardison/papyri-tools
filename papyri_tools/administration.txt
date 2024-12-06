@@ -1,0 +1,1568 @@
+administration.4045.1.14.text [...]
+administration.4045.1.14.lemmas _
+administration.4045.2.12.text [...] Σωσιβίου ρε ὧν κριθῇ ε [...] ε δ´ [...]
+administration.4045.2.12.lemmas _ Σωσίβιος ρε ὅς κρίνω ε# _ ε# δ´ _
+administration.4045.3.12.text [...]
+administration.4045.3.12.lemmas _
+administration.4045.3.13.text [...]
+administration.4045.3.13.lemmas _
+administration.4045.4.81.text [...] [...] α γίνονται [...]
+administration.4045.4.81.lemmas _ _ α# γίγνομαι _
+administration.4045.5.81.text [...]
+administration.4045.5.81.lemmas _
+administration.4045.5.82.text [...]
+administration.4045.5.82.lemmas _
+administration.4045.6.82.text [...] αὐτῶι ἐκ τοῦ Ζωίλου [...] χέρσου γίνονται ιζ
+administration.4045.6.82.lemmas _ αὐτός ἐκ ὁ Ζώϊλος _ χέρσος γίγνομαι ιζ#
+administration.4045.7.6.text [...]
+administration.4045.7.6.lemmas _
+administration.4045.7.7.text Βερενίκης τῆς [...]
+administration.4045.7.7.lemmas Βερενίκη ὁ _
+administration.4045.8.152.text [...]
+administration.4045.8.152.lemmas _
+administration.4045.8.153.text |check|Ἡρακλείδου [...]
+administration.4045.8.153.lemmas Ἡρακλείδης _
+administration.4045.9.153.text [...]
+administration.4045.9.153.lemmas _
+administration.4045.9.154.text [...]
+administration.4045.9.154.lemmas _
+administration.4045.10.154.text [...]
+administration.4045.10.154.lemmas _
+administration.4045.10.155.text [...]
+administration.4045.10.155.lemmas _
+administration.4045.11.155.text [...] [...]
+administration.4045.11.155.lemmas _ _
+administration.4045.12.155.text [...]
+administration.4045.12.155.lemmas _
+administration.4045.12.156.text ἐξ ἐφόδων ·
+administration.4045.12.156.lemmas ἐκ ἔφοδος ·
+administration.4045.13.156.text [...]
+administration.4045.13.156.lemmas _
+administration.4045.14.156.text [...]
+administration.4045.14.156.lemmas _
+administration.4045.14.157.text ϛ Κεφάλωνος [...]
+administration.4045.14.157.lemmas ϛ# Κεφάλων _
+administration.4045.15.157.text [...]
+administration.4045.15.157.lemmas _
+administration.4045.15.158.text ϛ Ἀνδρονίκου [...]
+administration.4045.15.158.lemmas ϛ# Ἀνδρόνικος _
+administration.4045.16.158.text [...]
+administration.4045.16.158.lemmas _
+administration.4045.16.159.text Νίκωνος τοῦ [...]
+administration.4045.16.159.lemmas Νίκων ὁ _
+administration.4045.17.159.text [...]
+administration.4045.17.159.lemmas _
+administration.4045.17.160.text |check|Ἀθηνοδώρου [...]
+administration.4045.17.160.lemmas Ἀθηνόδωρος _
+administration.4045.18.160.text [...]
+administration.4045.18.160.lemmas _
+administration.4045.18.161.text Πτολεμαῖος [...]
+administration.4045.18.161.lemmas Πτολεμαῖος _
+administration.4045.19.161.text [...]
+administration.4045.19.161.lemmas _
+administration.4045.19.162.text Ζήνωνος τοῦ [...]
+administration.4045.19.162.lemmas Ζήνων ὁ _
+administration.4045.20.162.text [...]
+administration.4045.20.162.lemmas _
+administration.4045.20.163.text |check|Ἀσκληπιάδου τοῦ [...]
+administration.4045.20.163.lemmas Ἀσκληπιάδης ὁ _
+administration.4045.21.163.text [...]
+administration.4045.21.163.lemmas _
+administration.4045.21.164.text |check|Πολέμωνος τοῦ [...]
+administration.4045.21.164.lemmas Πολέμων ὁ _
+administration.4045.22.164.text [...]
+administration.4045.22.164.lemmas _
+administration.4045.22.165.text |check|Νικολάου πυρῷ ε η´ [...] [...]
+administration.4045.22.165.lemmas Νικόλαος πυρός ε# η´# _ _
+administration.4045.23.165.text [...]
+administration.4045.23.165.lemmas _
+administration.4045.23.166.text γίνονται ἐξ ἐφόδων [...]
+administration.4045.23.166.lemmas γίγνομαι ἐκ ἔφοδος _
+administration.4045.24.23.text [...]
+administration.4045.24.23.lemmas _
+administration.4045.24.24.text [...]
+administration.4045.24.24.lemmas _
+administration.4045.25.24.text [...] καὶ Πετοσίριος περὶ τὸ
+administration.4045.25.24.lemmas _ καί Πετοσῖρις περί ὁ
+administration.4045.25.25.text [...]
+administration.4045.25.25.lemmas _
+administration.4045.26.25.text [...] ἐκ τοῦ Φιλίππου ἀπὸ λίνου ἴσον
+administration.4045.26.25.lemmas _ ἐκ ὁ Φίλιππος ἀπό λίνος ἴσος
+administration.28195.1.1.text [...]
+administration.28195.1.1.lemmas _
+administration.28195.2.1.text [...] μητρὸς τῆς αὐτῆς [...]
+administration.28195.2.1.lemmas _ μήτηρ ὁ αὐτός _
+administration.28195.3.1.text [...]
+administration.28195.3.1.lemmas _
+administration.28195.3.2.text [...]
+administration.28195.3.2.lemmas _
+administration.28195.4.2.text [...] μητρὸς Ταπιώμιος τῆς Στοτοήτεως [...]
+administration.28195.4.2.lemmas _ μήτηρ Ταπιωμις ὁ Στοτοητις _
+administration.28195.5.2.text [...]
+administration.28195.5.2.lemmas _
+administration.28195.5.3.text [...]
+administration.28195.5.3.lemmas _
+administration.28195.6.3.text [...] τῆς Στοτοήτεως [...]
+administration.28195.6.3.lemmas _ ὁ Στοτοητις _
+administration.28195.7.3.text [...]
+administration.28195.7.3.lemmas _
+administration.28195.7.4.text [...]
+administration.28195.7.4.lemmas _
+administration.28195.8.4.text [...] μητρὸς τῆς αὐτῆς [...]
+administration.28195.8.4.lemmas _ μήτηρ ὁ αὐτός _
+administration.28195.9.4.text [...]
+administration.28195.9.4.lemmas _
+administration.28195.9.5.text [...]
+administration.28195.9.5.lemmas _
+administration.28195.10.5.text [...] μητρὸς τῆς αὐτῆς
+administration.28195.10.5.lemmas _ μήτηρ ὁ αὐτός
+administration.28195.10.6.text [...]
+administration.28195.10.6.lemmas _
+administration.28195.11.6.text [...] νεωτέρου μητρὸς Τανεφρέμμεως ἐτῶν [...]
+administration.28195.11.6.lemmas _ νέος μήτηρ Τανεφρέμμις ἔτος _
+administration.28195.11.7.text [...]
+administration.28195.11.7.lemmas _
+administration.28195.12.7.text [...] μητρὸς Ἐριέως τῆς Σαταβοῦτος ἐτῶν [...]
+administration.28195.12.7.lemmas _ μήτηρ Ἐριεύς ὁ Σαταβους ἔτος _
+administration.28195.12.8.text [...]
+administration.28195.12.8.lemmas _
+administration.28195.13.8.text [...] μητρὸς Θαήσεως τῆς
+administration.28195.13.8.lemmas _ μήτηρ Θαησις ὁ
+administration.28195.13.8-9.text Σαταβοῦτος
+administration.28195.13.8-9.lemmas Σαταβους
+administration.28195.13.9.text ἐτῶν [...]
+administration.28195.13.9.lemmas ἔτος _
+administration.28195.13.10.text [...]
+administration.28195.13.10.lemmas _
+administration.28195.14.10.text [...] μητρὸς Στοτοήτεως τῆς Στοτοήτεως ἐτῶν [...]
+administration.28195.14.10.lemmas _ μήτηρ Στοτοητις ὁ Στοτοητις ἔτος _
+administration.28195.14.11.text [...]
+administration.28195.14.11.lemmas _
+administration.28195.15.11.text [...] μητρὸς τῆς αὐτῆς ἐτῶν βζ
+administration.28195.15.11.lemmas _ μήτηρ ὁ αὐτός ἔτος βζ#
+administration.28195.15.12.text [...]
+administration.28195.15.12.lemmas _
+administration.28195.16.12.text [...] μητρὸς τῆς αὐτῆς ἐτῶν κε
+administration.28195.16.12.lemmas _ μήτηρ ὁ αὐτός ἔτος κε#
+administration.28195.16.13.text [...]
+administration.28195.16.13.lemmas _
+administration.28195.17.13.text [...] μητρὸς [...] τῆς Πανεφρέμμεως ἐτῶν [...]
+administration.28195.17.13.lemmas _ μήτηρ _ ὁ Πανεφρεμμις ἔτος _
+administration.28195.17.14.text [...]
+administration.28195.17.14.lemmas _
+administration.28195.18.14.text [...] μητρὸς [...] τῆς Σαταβοῦτος ἐτῶν [...]
+administration.28195.18.14.lemmas _ μήτηρ _ ὁ Σαταβους ἔτος _
+administration.28195.18.15.text [...]
+administration.28195.18.15.lemmas _
+administration.28195.19.15.text [...] Σαταβοῦτος μητρὸς Τανεφρέμμεως τῆς [...]
+administration.28195.19.15.lemmas _ Σαταβους μήτηρ Τανεφρέμμις ὁ _
+administration.28195.20.15.text [...]
+administration.28195.20.15.lemmas _
+administration.28195.20.16.text [...]
+administration.28195.20.16.lemmas _
+administration.28195.21.16.text [...] ἐτῶν [...]
+administration.28195.21.16.lemmas _ ἔτος _
+administration.28195.21.17.text [...]
+administration.28195.21.17.lemmas _
+administration.28195.22.17.text [...] τῆς Ἁρπαγάθου ἐτῶν [...]
+administration.28195.22.17.lemmas _ ὁ Ἁρπαγαθης ἔτος _
+administration.28195.22.18.text [...]
+administration.28195.22.18.lemmas _
+administration.28195.23.18.text [...] μητρὸς τῆς αὐτῆς
+administration.28195.23.18.lemmas _ μήτηρ ὁ αὐτός
+administration.28195.23.19.text [...]
+administration.28195.23.19.lemmas _
+administration.28195.24.19.text [...] Πανομγέως μητρὸς Ταβοῦτος τῆς [...]
+administration.28195.24.19.lemmas _ Πανομγευς μήτηρ Ταβοῦς ὁ _
+administration.28195.25.19.text [...]
+administration.28195.25.19.lemmas _
+administration.28195.25.20.text [...]
+administration.28195.25.20.lemmas _
+administration.28195.26.20.text [...] ἐτῶν [...]
+administration.28195.26.20.lemmas _ ἔτος _
+administration.31271.1.1.text [...]
+administration.31271.1.1.lemmas _
+administration.31271.2.1.text [...]
+administration.31271.2.1.lemmas _
+administration.31271.2.2.text [...] μητρὸς [...] δραχμαὶ κδ [...]
+administration.31271.2.2.lemmas _ μήτηρ _ δραχμή κδ# _
+administration.31271.3.2.text [...]
+administration.31271.3.2.lemmas _
+administration.31271.3.3.text Ἀπολλωνίου δραχμαὶ ζ [...]
+administration.31271.3.3.lemmas Ἀπολλώνιος δραχμή ζ# _
+administration.31271.4.3.text [...]
+administration.31271.4.3.lemmas _
+administration.31271.4.4.text [...] Ἡρακλείδου [...]
+administration.31271.4.4.lemmas _ Ἡρακλείδης _
+administration.31271.5.4.text [...]
+administration.31271.5.4.lemmas _
+administration.31271.5.5.text [...] Σαραπάμμωνος [...]
+administration.31271.5.5.lemmas _ Σαραπάμμων _
+administration.31271.6.5.text [...]
+administration.31271.6.5.lemmas _
+administration.31271.6.6.text Ἀπολλωνίου τοῦ Ἰσιδώρου δραχμαὶ ϛ τριώβολον [...]
+administration.31271.6.6.lemmas Ἀπολλώνιος ὁ Ἰσίδωρος δραχμή ϛ# τριώβολον _
+administration.31271.7.6.text [...]
+administration.31271.7.6.lemmas _
+administration.31271.7.7.text [...] δραχμὴ α διώβολον χαλκοῖ β
+administration.31271.7.7.lemmas _ δραχμή α# διώβολον χάλκεος β#
+administration.31271.7.8.text [...] γίνονται τοῦ ὀνόματος δραχμαὶ ξθ ὀβολὸς α 𐅵 χαλκοῦς α
+administration.31271.7.8.lemmas _ γίγνομαι ὁ ὄνομα δραχμή ξθ# ὀβολός α# 𐅵 χάλκεος α#
+administration.31271.7.9.text Ἀθηναίου τοῦ Φανοῦτος δραχμαὶ ϛ ὀβολοὶ γ 𐅵 χαλκοῖ γ
+administration.31271.7.9.lemmas Ἀθήναιος ὁ Φανοῦς δραχμή ϛ# ὀβολός γ# 𐅵 χαλκοῦς γ#
+administration.31271.7.10.text Ἀπολλωνίου πεντώβολον
+administration.31271.7.10.lemmas Ἀπολλώνιος πεντώβολος
+administration.31271.7.11.text Ἀπολλωνίου τοῦ Ἰσιδώρου Ἀλεξανδρέως
+administration.31271.7.11.lemmas Ἀπολλώνιος ὁ Ἰσίδωρος Ἀλεξανδρεύς
+administration.31271.7.12.text [...] δραχμαὶ ιγ ὀβολὸς α 𐅵 χαλκοῖ β
+administration.31271.7.12.lemmas _ δραχμή ιγ# ὀβολός α# 𐅵 χαλκοῦς β#
+administration.31271.7.13.text [...] Ἰσιδώρου δραχμαὶ ριβ ὀβολοὶ ε 𐅵 χαλκοῦς α
+administration.31271.7.13.lemmas _ Ἰσίδωρος δραχμή ριβ# ὀβολός ε# 𐅵 χάλκεος α#
+administration.31271.7.14.text Ἀλεξανδρέως τοῦ Λόγγου δραχμαὶ νθ τετρώβολον χαλκοῦς α
+administration.31271.7.14.lemmas Ἀλεξανδρεύς ὁ Λόγγος δραχμή νθ# τετρώβολον χάλκεος α#
+administration.31271.7.15.text [...] δραχμαὶ μϛ ὀβολοὶ β 𐅵 χαλκοῖ β γίνονται τοῦ ὀνόματος δραχμαὶ ρϛ ὀβολὸς χαλκοῖ γ
+administration.31271.7.15.lemmas _ δραχμή μϛ# ὀβολός β# 𐅵 χαλκοῦς β# γίγνομαι ὁ ὄνομα δραχμή ρϛ# ὀβολός χαλκοῦς γ#
+administration.31271.7.16.text [...] δραχμαὶ κ πεντώβολον γίνονται κώμης δραχμαὶ τϙδ ὀβολοὶ 4 [...] [...]
+administration.31271.7.16.lemmas _ δραχμή κ# πεντώβολος γίγνομαι κώμη δραχμή τ?δ ὀβολός ͵4 _ _
+administration.31271.7.17.text [...]
+administration.31271.7.17.lemmas _
+administration.31271.8.17.text [...] Κορνηλίου δραχμαὶ ε
+administration.31271.8.17.lemmas _ Κορνήλιος δραχμή ε#
+administration.31271.8.18.text Πτολεμαίου Ἡρώδου δραχμαὶ ιγ ὀβολοὶ δ 𐅵
+administration.31271.8.18.lemmas Πτολεμαῖος Ἡρώδης δραχμή ιγ# ὀβολός δ# 𐅵
+administration.31271.8.19.text Σαραπίωνος δραχμαὶ ϛ τετρώβολον
+administration.31271.8.19.lemmas Σαραπίων δραχμή ϛ# τετρώβολον
+administration.31271.8.20.text τοῦ αὐτοῦ δραχμαὶ δ ὀβολοὶ γ 𐅵 χαλκοῖ β
+administration.31271.8.20.lemmas ὁ αὐτός δραχμή δ# ὀβολός γ# 𐅵 χαλκοῦς β#
+administration.31271.8.21.text γίνονται δραχμαὶ ιγ ὀβολὸς α 𐅵 χαλκοῦς β γίνονται κώμης δραχμαὶ [...] διώβολον
+administration.31271.8.21.lemmas γίγνομαι δραχμή ιγ# ὀβολός α# 𐅵 χάλκεος β# γίγνομαι κώμη δραχμή _ διώβολον
+administration.31271.8.22.text [...] ὀνόματος δραχμαὶ [...]
+administration.31271.8.22.lemmas _ ὄνομα δραχμή _
+administration.31271.9.22.text [...]
+administration.31271.9.22.lemmas _
+administration.31271.9.23.text [...] δραχμαὶ [...]
+administration.31271.9.23.lemmas _ δραχμή _
+administration.31271.10.23.text [...]
+administration.31271.10.23.lemmas _
+administration.31271.10.24.text [...] Ἰσιδώρου γυμνασιαρχήσατος τῆς Ἀρσινοϊτῶν πόλεως [...]
+administration.31271.10.24.lemmas _ Ἰσίδωρος γυμνασιαρχήσατος ὁ Ἀρσινοΐτης πόλις _
+administration.31271.11.24.text [...]
+administration.31271.11.24.lemmas _
+administration.31271.11.25.text [...] καὶ Ἔρωτος δραχμαὶ [...]
+administration.31271.11.25.lemmas _ καί Ἔρως δραχμή _
+administration.31271.12.25.text [...]
+administration.31271.12.25.lemmas _
+administration.31271.12.26.text [...]
+administration.31271.12.26.lemmas _
+administration.31271.13.26.text [...] γίνονται δραχμαὶ ριε ὀβολὸς α 𐅵 χαλκοῖ β
+administration.31271.13.26.lemmas _ γίγνομαι δραχμή ριε# ὀβολός α# 𐅵 χαλκόω β#
+administration.31271.13.27.text [...] κεχρηματικότος [...]
+administration.31271.13.27.lemmas _ χρηματίζω _
+administration.31271.14.27.text [...]
+administration.31271.14.27.lemmas _
+administration.31271.14.28.text Σεμπρωνίου Γεμέλλου [...]
+administration.31271.14.28.lemmas Σεμπρώνιος Γέμελλος _
+administration.31271.15.28.text [...]
+administration.31271.15.28.lemmas _
+administration.31271.15.29.text [...] ἱππέως [...]
+administration.31271.15.29.lemmas _ ἱππεύς _
+administration.31271.16.29.text [...]
+administration.31271.16.29.lemmas _
+administration.31271.16.30.text [...]
+administration.31271.16.30.lemmas _
+administration.31271.17.30.text [...]
+administration.31271.17.30.lemmas _
+administration.31271.17.31.text [...]
+administration.31271.17.31.lemmas _
+administration.31271.18.19.text [...]
+administration.31271.18.19.lemmas _
+administration.31271.18.20.text πρότερον Αὐρηλίου Ἁρποκρατίωνος δραχμαὶ [...]
+administration.31271.18.20.lemmas πρότερος Αὐρήλιος Ἁρποκρατίων δραχμή _
+administration.31271.19.20.text [...]
+administration.31271.19.20.lemmas _
+administration.31271.19.21.text Ἀλεξάνδρου Ἰσιδώρου δραχμαὶ [...]
+administration.31271.19.21.lemmas Ἀλέξανδρος Ἰσιδωρος δραχμή _
+administration.31271.20.21.text [...]
+administration.31271.20.21.lemmas _
+administration.31271.20.22.text πρότερον Ἰσιδώρας Μάρωνος δραχμαὶ κη [...]
+administration.31271.20.22.lemmas πρότερος Ἴσιδώρας Μάρων δραχμή κη# _
+administration.31271.21.22.text [...]
+administration.31271.21.22.lemmas _
+administration.31271.21.23.text πρότερον Κορνηλίου Ἰουστίνου δραχμαὶ [...]
+administration.31271.21.23.lemmas πρότερος Κορνήλιος Ἰουστῖνος δραχμή _
+administration.31271.22.23.text [...]
+administration.31271.22.23.lemmas _
+administration.31271.22.24.text [...] Κάστορος τριώβολον [...]
+administration.31271.22.24.lemmas _ Κάστωρ τριώβολον _
+administration.31271.23.24.text [...]
+administration.31271.23.24.lemmas _
+administration.31271.23.25.text [...] Σωτηρίχου δραχμαὶ [...] [...]
+administration.31271.23.25.lemmas _ Σωτήριχος δραχμή _ _
+administration.31271.24.25.text [...]
+administration.31271.24.25.lemmas _
+administration.31271.24.26.text [...] Μάρωνος [...]
+administration.31271.24.26.lemmas _ Μάρων _
+administration.31271.25.26.text [...]
+administration.31271.25.26.lemmas _
+administration.31271.25.27.text [...] Πτολεμαίου [...] [...]
+administration.31271.25.27.lemmas _ Πτολεμαῖος _ _
+administration.31271.26.27.text [...]
+administration.31271.26.27.lemmas _
+administration.31271.26.28.text [...] Ταμύσθας [...]
+administration.31271.26.28.lemmas _ Ταμύσθη _
+administration.31271.27.28.text [...]
+administration.31271.27.28.lemmas _
+administration.31271.27.29.text [...]
+administration.31271.27.29.lemmas _
+administration.11647.1.00.text σάκκοι
+administration.11647.1.00.lemmas σάκκος
+administration.11647.2.150.text [...]
+administration.11647.2.150.lemmas _
+administration.11647.2.151.text γίνονται αἱ προκείμεναι
+administration.11647.2.151.lemmas γίγνομαι ὁ πρόκειμαι
+administration.11647.2.152.text ἐποικίου Μέλανος τῶν [...]
+administration.11647.2.152.lemmas ἐποίκιον Μέλας ὁ _
+administration.11647.2.153.text Κόνναρος [...] [...]
+administration.11647.2.153.lemmas Κόνναρος _ _
+administration.11647.2.154.text [...] [...]
+administration.11647.2.154.lemmas _ _
+administration.11647.3.52.text [...]
+administration.11647.3.52.lemmas _
+administration.11647.3.53.text Ἄρειος [...]
+administration.11647.3.53.lemmas Ἄρειος _
+administration.11647.4.53.text [...] δημοσίων πυροῦ ἀρτάβαι γ
+administration.11647.4.53.lemmas _ δημόσιος πυρός ἀρτάβη γ#
+administration.11647.4.54.text Εὐρήμων [...]
+administration.11647.4.54.lemmas Εὐρήμων _
+administration.11647.5.54.text [...] δημοσίων πυροῦ ἀρτάβαι ϛ
+administration.11647.5.54.lemmas _ δημόσιος πυρός ἀρτάβη ϛ#
+administration.11647.5.55.text Ἰσίδωρος [...]
+administration.11647.5.55.lemmas Ἰσίδωρος _
+administration.11647.6.55.text [...] δημοσίων πυροῦ ἀρτάβαι γ
+administration.11647.6.55.lemmas _ δημόσιος πυρός ἀρτάβη γ#
+administration.11647.6.56.text Διόδωρος [...]
+administration.11647.6.56.lemmas Διόδωρος _
+administration.11647.7.56.text [...]
+administration.11647.7.56.lemmas _
+administration.11647.7.57.text Εὐρήμων [...]
+administration.11647.7.57.lemmas Εὐρήμων _
+administration.11647.8.57.text [...] δημοσίων πυροῦ ἀρτάβη α
+administration.11647.8.57.lemmas _ δημόσιος πυρός ἀρτάβη α#
+administration.11647.8.58.text Ἀρητίων [...]
+administration.11647.8.58.lemmas Ἀρητίων _
+administration.11647.9.58.text [...] δημοσίων πυροῦ ἀρτάβη α
+administration.11647.9.58.lemmas _ δημόσιος πυρός ἀρτάβη α#
+administration.11647.9.59.text [...]
+administration.11647.9.59.lemmas _
+administration.11647.10.59.text [...] δημοσίων πυροῦ ἀρτάβη α
+administration.11647.10.59.lemmas _ δημόσιος πυρός ἀρτάβη α#
+administration.11647.10.60.text Διονύσιος [...]
+administration.11647.10.60.lemmas Διονύσιος _
+administration.11647.11.60.text [...] δημοσίων πυροῦ ἀρτάβη α κδ´
+administration.11647.11.60.lemmas _ δημόσιος πυρός ἀρτάβη α# κδ´#
+administration.11647.11.61.text γίνονται αἱ προκείμεναι
+administration.11647.11.61.lemmas γίγνομαι ὁ πρόκειμαι
+administration.11647.11.62.text κατοίκων αὐτοῦ ὧν τὸ κατʼ ἄνδρα
+administration.11647.11.62.lemmas κάτοικος αὐτός ὅς ὁ κατά ἀνήρ
+administration.11647.11.63.text κληρονόμοι [...] Παλαμήδους κατοίκων πυροῦ ἀρτάβαι β
+administration.11647.11.63.lemmas κληρονόμος _ Παλαμήδης κάτοικος πυρός ἀρτάβη β#
+administration.11647.11.64.text Μάρων ἱερεὺς κατοίκων πυροῦ ἀρτάβαι κε 𐅵 γ´
+administration.11647.11.64.lemmas Μάρων ἱερεύς κάτοικος πυρός ἀρτάβη κε# 𐅵 γ´#
+administration.11647.11.65.text Κύριλλα θυγάτηρ Ἀρείου τοῦ καὶ
+administration.11647.11.65.lemmas Κύριλλα θυγάτηρ Ἄρειας ὁ καί
+administration.11647.11.65-66.text Διδύμου
+administration.11647.11.65-66.lemmas Δίδυμος
+administration.11647.11.66.text κατοίκων πυροῦ ἀρτάβαι ια 𐅵 γ´
+administration.11647.11.66.lemmas κάτοικος πυρός ἀρτάβη ια# 𐅵 γ´#
+administration.11647.11.67.text Βάθραξ Διοσκόρου διὰ Διονυσίου κατοίκων πυροῦ ἀρτάβαι ε
+administration.11647.11.67.lemmas Βάθραξ Διοσκόρος διά Διονύσιος κάτοικος πυρός ἀρτάβη ε#
+administration.11647.11.68.text Ἁρποκρατίαινα Διοδώρου κατοίκων πυροῦ ἀρτάβαι θ ιϛ´
+administration.11647.11.68.lemmas Ἁρποκρατίαινα Διόδωρος κάτοικος πυρός ἀρτάβη θ# ιϛ´#
+administration.11647.11.69.text Πτολλᾶς Αρσινου κατοίκων πυροῦ ἀρτάβαι ιζ 𐅷
+administration.11647.11.69.lemmas Πτολλᾶς Αρσινος κάτοικος πυρός ἀρτάβη ιζ# 𐅷
+administration.11647.11.70.text Ἶσις γυνὴ Λάμπωνος κατοίκων πυροῦ ἀρτάβαι ι
+administration.11647.11.70.lemmas Ἶσις γυνή Λάμπων κάτοικος πυρός ἀρτάβη ι#
+administration.11647.11.71.text Δημήτριος υἱὸς Νείλου κατοίκων πυροῦ ἀρτάβαι ι
+administration.11647.11.71.lemmas Δημήτριος υἱός Νεῖλος κάτοικος πυρός ἀρτάβη ι#
+administration.11647.11.72.text Ἀφροδίσιος γυνὴ καὶ οἱ ἀδελφοὶ κατοίκων πυροῦ ἀρτάβαι ϙα ιβ´
+administration.11647.11.72.lemmas Ἀφροδίσιος γυνή καί ὁ ἀδελφός κάτοικος πυρός ἀρτάβη ?α ιβ´#
+administration.11647.11.73.text κληρονόμοι [...] ἀγορανομήσαντος κατοίκων πυροῦ ἀρτάβαι η 𐅸
+administration.11647.11.73.lemmas κληρονόμος _ ἀγορανομέω κάτοικος πυρός ἀρτάβη η# 𐅸
+administration.11647.11.74.text Ἶσις γυνὴ Λάμπωνος κατοίκων πυροῦ ἀρτάβαι ϛ
+administration.11647.11.74.lemmas Ἶσις γυνή Λάμπων κάτοικος πυρός ἀρτάβη ϛ#
+administration.11647.12.11.text [...] δημοσίων πυροῦ ἀρτάβαι θ
+administration.11647.12.11.lemmas _ δημόσιος πυρός ἀρτάβη θ#
+administration.11647.12.12.text [...]
+administration.11647.12.12.lemmas _
+administration.11647.13.12.text [...] δημοσίων πυροῦ ἀρτάβαι κβ
+administration.11647.13.12.lemmas _ δημόσιος πυρός ἀρτάβη κβ#
+administration.11647.13.13.text [...]
+administration.11647.13.13.lemmas _
+administration.11647.14.13.text [...] Τεσενούφεως δημοσίων πυροῦ ἀρτάβαι ιϛ [...]
+administration.11647.14.13.lemmas _ Τεσενουφις δημόσιος πυρός ἀρτάβη ιϛ# _
+administration.11647.14.14.text [...]
+administration.11647.14.14.lemmas _
+administration.11647.15.14.text [...] δημοσίων πυροῦ ἀρτάβαι κ [...]
+administration.11647.15.14.lemmas _ δημόσιος πυρός ἀρτάβη κ# _
+administration.11647.15.15.text [...]
+administration.11647.15.15.lemmas _
+administration.11647.16.15.text [...] δημοσίων πυροῦ ἀρτάβαι ιϛ
+administration.11647.16.15.lemmas _ δημόσιος πυρός ἀρτάβη ιϛ#
+administration.11647.16.16.text [...]
+administration.11647.16.16.lemmas _
+administration.11647.17.16.text [...] δημοσίων πυροῦ ἀρτάβαι κδ γ´
+administration.11647.17.16.lemmas _ δημόσιος πυρός ἀρτάβη κδ# γ´#
+administration.11647.17.17.text [...]
+administration.11647.17.17.lemmas _
+administration.11647.18.17.text [...] δημοσίων πυροῦ ἀρτάβαι η
+administration.11647.18.17.lemmas _ δημόσιος πυρός ἀρτάβη η#
+administration.11647.18.18.text [...]
+administration.11647.18.18.lemmas _
+administration.11647.19.18.text [...] Ὥρου καὶ [...]
+administration.11647.19.18.lemmas _ Ὧρος καί _
+administration.11647.19.19.text [...]
+administration.11647.19.19.lemmas _
+administration.11647.20.19.text [...] δημοσίων πυροῦ ἀρτάβαι η
+administration.11647.20.19.lemmas _ δημόσιος πυρός ἀρτάβη η#
+administration.11647.20.20.text [...]
+administration.11647.20.20.lemmas _
+administration.11647.21.20.text [...] δημοσίων πυροῦ ἀρτάβαι η [...]
+administration.11647.21.20.lemmas _ δημόσιος πυρός ἀρτάβη η# _
+administration.11647.21.21.text [...]
+administration.11647.21.21.lemmas _
+administration.11647.22.21.text [...] δημοσίων πυροῦ ἀρτάβαι ιγ
+administration.11647.22.21.lemmas _ δημόσιος πυρός ἀρτάβη ιγ#
+administration.11647.22.22.text [...]
+administration.11647.22.22.lemmas _
+administration.11647.23.22.text [...] δημοσίων πυροῦ ἀρτάβαι κ
+administration.11647.23.22.lemmas _ δημόσιος πυρός ἀρτάβη κ#
+administration.11647.23.23.text [...]
+administration.11647.23.23.lemmas _
+administration.11647.24.23.text [...] δημοσίων πυροῦ ἀρτάβαι κε
+administration.11647.24.23.lemmas _ δημόσιος πυρός ἀρτάβη κε#
+administration.11647.24.24.text [...]
+administration.11647.24.24.lemmas _
+administration.11647.25.24.text [...] καὶ Πα
+administration.11647.25.24.lemmas _ καί Πας
+administration.11647.25.25.text [...]
+administration.11647.25.25.lemmas _
+administration.11647.26.25.text [...] δημοσίων πυροῦ ἀρτάβαι ι
+administration.11647.26.25.lemmas _ δημόσιος πυρός ἀρτάβη ι#
+administration.7748.1.15.text [...]
+administration.7748.1.15.lemmas _
+administration.7748.2.15.text [...]
+administration.7748.2.15.lemmas _
+administration.7748.2.16.text κατὰ μέρος [...]
+administration.7748.2.16.lemmas κατά μέρος _
+administration.7748.3.16.text [...]
+administration.7748.3.16.lemmas _
+administration.7748.3.17.text Κυρηναῖος ὀγδοηκοντάρουρος ὃς ἦν τῶν [...]
+administration.7748.3.17.lemmas Κυρηναῖος ὀγδοηκοντάρουρος ὅς εἰμί ὁ _
+administration.7748.4.17.text [...]
+administration.7748.4.17.lemmas _
+administration.7748.4.18.text τοῦ δ καὶ ε ἔτους [...]
+administration.7748.4.18.lemmas ὁ δ# καί ε# ἔτος _
+administration.7748.5.18.text [...]
+administration.7748.5.18.lemmas _
+administration.7748.5.19.text παραδεδειχέναι τὴν [...]
+administration.7748.5.19.lemmas παραδείκνυμι ὁ _
+administration.7748.6.19.text [...]
+administration.7748.6.19.lemmas _
+administration.7748.6.20.text Θεσσαλῆι ἣν [...]
+administration.7748.6.20.lemmas Θεσσαλός ὅς _
+administration.7748.7.20.text [...]
+administration.7748.7.20.lemmas _
+administration.7748.7.21.text τῶν διασαφουμένων [...]
+administration.7748.7.21.lemmas ὁ διασαφέω _
+administration.7748.8.21.text [...]
+administration.7748.8.21.lemmas _
+administration.7748.8.22.text ἃ ἐνηνοχέναι [...]
+administration.7748.8.22.lemmas ὅς φέρω _
+administration.7748.9.22.text [...]
+administration.7748.9.22.lemmas _
+administration.7748.9.23.text διὰ Χαιρήμονος τοῦ ἐπιμελητοῦ [...]
+administration.7748.9.23.lemmas διά Χαιρήμων ὁ ἐπιμελητής _
+administration.7748.10.23.text [...]
+administration.7748.10.23.lemmas _
+administration.7748.10.24.text καὶ ἀγοράσαι ἀρούρας κ [...]
+administration.7748.10.24.lemmas καί ἀγοράζω ἄρουρα κ# _
+administration.7748.11.24.text [...]
+administration.7748.11.24.lemmas _
+administration.7748.11.25.text [...] [...] δὲ τοπογραμματέως Χαιρήμονος [...]
+administration.7748.11.25.lemmas _ _ δέ τοπογραμματεύς Χαιρήμων _
+administration.7748.12.25.text [...]
+administration.7748.12.25.lemmas _
+administration.7748.12.26.text τοῦ [...] πυροῦ ϙ γ´ ιβ´ [...] [...]
+administration.7748.12.26.lemmas ὁ _ πυρός ?# γ´# ιβ´# _ _
+administration.7748.13.26.text [...]
+administration.7748.13.26.lemmas _
+administration.7748.13.27.text ἐνεστώσης τιμῆς [...]
+administration.7748.13.27.lemmas ἐνίστημι τιμή _
+administration.7748.14.27.text [...]
+administration.7748.14.27.lemmas _
+administration.7748.14.28.text [...]
+administration.7748.14.28.lemmas _
+administration.7748.15.52.text [...]
+administration.7748.15.52.lemmas _
+administration.7748.15.53.text [...]
+administration.7748.15.53.lemmas _
+administration.7748.16.53.text [...]
+administration.7748.16.53.lemmas _
+administration.7748.16.54.text [...] καθὰ καὶ [...] εἰκοστὴ σι ἑξηκοστὴ [...]
+administration.7748.16.54.lemmas _ καθά καί _ εἰκοστή σι ἑξηκοστός _
+administration.7748.17.54.text [...]
+administration.7748.17.54.lemmas _
+administration.7748.17.55.text [...] [...] τῶν φορτίων παρʼ ἑαυτοῦ [...]
+administration.7748.17.55.lemmas _ _ ὁ φορτίον παρά ἑαυτοῦ _
+administration.7748.18.55.text [...]
+administration.7748.18.55.lemmas _
+administration.7748.18.56.text [...] ε πήχεις καὶ ἄλλου τόπου ἐν ὧι φρέαρ [...]
+administration.7748.18.56.lemmas _ ε# πῆχυς καί ἄλλος τόπος ἐν ὅς φρέαρ _
+administration.7748.19.56.text [...]
+administration.7748.19.56.lemmas _
+administration.7748.19.57.text [...] καὶ ἄλλου τόπου ἐν ὧι [...]
+administration.7748.19.57.lemmas _ καί ἄλλος τόπος ἐν ὅς _
+administration.7748.20.57.text [...]
+administration.7748.20.57.lemmas _
+administration.7748.20.58.text [...] ἐντὸς τοῦ περιβόλου τοῦ ἐν [...]
+administration.7748.20.58.lemmas _ ἐντός ὁ περίβολος ὁ ἐν _
+administration.7748.21.58.text [...]
+administration.7748.21.58.lemmas _
+administration.7748.21.59.text [...] [...] Ἀφροδισίου ἐπιδεδομένων δὲ ὑφʼ ἡμῶν ἀναγεγράφθαι [...]
+administration.7748.21.59.lemmas _ _ Ἀφροδίσιος ἐπιδίδωμι δέ ὑπό ἐγώ ἀναγράφω _
+administration.7748.22.59.text [...]
+administration.7748.22.59.lemmas _
+administration.7748.22.60.text Σεμθέως τοπογραμματέως πραθέντων δὲ διὰ [...]
+administration.7748.22.60.lemmas Σεμθευς τοπογραμματεύς πιπράσκω δέ διά _
+administration.7748.23.60.text [...]
+administration.7748.23.60.lemmas _
+administration.7748.23.61.text ἀκολούθως τῆι προκειμένηι [...]
+administration.7748.23.61.lemmas ἀκόλουθος ὁ πρόκειμαι _
+administration.7748.24.61.text [...]
+administration.7748.24.61.lemmas _
+administration.7748.24.62.text [...] δραχμαὶ Β [...]
+administration.7748.24.62.lemmas _ δραχμή Β _
+administration.7748.25.62.text [...]
+administration.7748.25.62.lemmas _
+administration.7748.25.63.text [...] Β γίνονται Δ [...]
+administration.7748.25.63.lemmas _ Β γίγνομαι Δ# _
+administration.7748.26.63.text [...]
+administration.7748.26.63.lemmas _
+administration.7748.26.64.text [...]
+administration.7748.26.64.lemmas _
+administration.9476.1.1.text σπερμάτων [...]
+administration.9476.1.1.lemmas σπέρμα _
+administration.9476.2.1.text [...] μετρήματα
+administration.9476.2.1.lemmas _ μέτρημα
+administration.44507.1.1.text βιβλοφύλαξι δημοσίων λόγων
+administration.44507.1.1.lemmas βιβλοφύλαξ δημόσιος λόγος
+administration.44507.1.2.text παρὰ Πτολεμαίου τοῦ Εὐπόρου
+administration.44507.1.2.lemmas παρά Πτολεμαῖος ὁ Εὔπορος
+administration.44507.1.3.text καὶ μετόχων ἐπιτηρητῶν σαυρητῶν
+administration.44507.1.3.lemmas καί μέτοχος ἐπιτηρητής σαυρήτης
+administration.44507.1.4.text κροκοδείλων τοῦ κβ ἔτους Ἁδριανοῦ
+administration.44507.1.4.lemmas κροκόδειλος ὁ κβ# ἔτος Ἁδριανός
+administration.44507.1.5.text Καίσαρος τοῦ κυρίου .
+administration.44507.1.5.lemmas Καῖσαρ ὁ κύριος .
+administration.44507.2.5.text δηλοῦμεν
+administration.44507.2.5.lemmas δηλόω
+administration.44507.2.6.text μηδὲν περιγεγονέναι ἀπὸ τῆς προκειμένης
+administration.44507.2.6.lemmas μηδείς περιγίγνομαι ἀπό ὁ πρόκειμαι
+administration.44507.2.7.text ἐπιτηρήσεως τῶν ἀπὸ [...] ἕως [...]
+administration.44507.2.7.lemmas ἐπιτήρησις ὁ ἀπό _ ἕως _
+administration.44507.2.8.text τοῦ Τῦβι μηνὸς τοῦ ἐνεστῶτος ἔτους .
+administration.44507.2.8.lemmas ὁ Τῦβι μείς ὁ ἐνίστημι ἔτος .
+administration.44507.3.9.text Πτολεμαῖος διὰ [...] [...]
+administration.44507.3.9.lemmas Πτολεμαῖος διά _ _
+administration.44507.4.9.text [...] ἐπιδέδωκα τὸν προκείμενον λόγον ὡς πρόκειται .
+administration.44507.4.9.lemmas _ ἐπιδίδωμι ὁ πρόκειμαι λόγος ὡς πρόκειμαι .
+administration.44507.5.10.text ἔτους κβ Ἁδριανοῦ Καίσαρος τοῦ κυρίου Τῦβι [...]
+administration.44507.5.10.lemmas ἔτος κβ# Ἁδριανός Καῖσαρ ὁ κύριος Τῦβι _
+administration.44507.6.10.text [...]
+administration.44507.6.10.lemmas _
+administration.44507.6.11.text [...]
+administration.44507.6.11.lemmas _
+administration.44507.7.11.text [...]
+administration.44507.7.11.lemmas _
+administration.44507.7.12.text [...]
+administration.44507.7.12.lemmas _
+administration.44507.8.12.text [...] [...] Ζωίλου δραχμαὶ ιβ τετρώβολον
+administration.44507.8.12.lemmas _ _ Ζώϊλος δραχμή ιβ# τετρώβολον
+administration.44507.8.13.text [...]
+administration.44507.8.13.lemmas _
+administration.44507.9.13.text [...] Μάρωνος [...] δραχμαὶ μ τετρώβολον
+administration.44507.9.13.lemmas _ Μάρων _ δραχμή μ# τετρώβολον
+administration.44507.9.14.text [...]
+administration.44507.9.14.lemmas _
+administration.44507.10.14.text [...] [...] [...] δραχμαὶ ιβ διώβολον
+administration.44507.10.14.lemmas _ _ _ δραχμή ιβ# διώβολον
+administration.44507.10.15.text γίνονται ἐπὶ τὸ αὐτὸ ἀργυρίου δραχμαὶ αξδ , ἃς καὶ διεγράψαμεν ἐπὶ τὴν δημοσίαν τράπεζαν .
+administration.44507.10.15.lemmas γίγνομαι ἐπί ὁ αὐτός ἀργύριον δραχμή αξδ# , ὅς καί διαγράφω ἐπί ὁ δημόσιος τράπεζα .
+administration.44507.11.16.text Πασίων γραμματεὺς κατεχώρισα .
+administration.44507.11.16.lemmas Πασίων γραμματεύς καταχωρίζω .
+administration.44507.12.17.text ἔτους κβ Ἁδριανοῦ Καίσαρος τοῦ κυρίου Τῦβι [...]
+administration.44507.12.17.lemmas ἔτος κβ# Ἁδριανός Καῖσαρ ὁ κύριος Τῦβι _
+administration.44507.12.18.text Πτολεμαῖος ἐπιδέδωκα τὸν προκείμενον λόγον ὡς πρόκειται .
+administration.44507.12.18.lemmas Πτολεμαῖος ἐπιδίδωμι ὁ πρόκειμαι λόγος ὡς πρόκειμαι .
+administration.10888.1.1.text Ἀπολλωτᾷ στρατηγῷ Ἀρσινοίτου
+administration.10888.1.1.lemmas Ἀπολλωτᾶς στρατηγός Ἀρσινοΐτης
+administration.10888.1.2.text Ἡρακλείδου μερίδος
+administration.10888.1.2.lemmas Ἡρακλείδης μερίς
+administration.10888.1.3.text παρὰ Διοσκόρου ἐν κλήρῳ καὶ
+administration.10888.1.3.lemmas παρά Διοσκόρος ἐν κλῆρος καί
+administration.10888.1.4.text μετόχων πρακτόρων ἀργυρικῶν
+administration.10888.1.4.lemmas μέτοχος πράκτωρ ἀργυρικός
+administration.10888.1.5.text Ἡφαιστιάδος .
+administration.10888.1.5.lemmas Ἡφαιστιάς .
+administration.10888.2.5.text λόγος ἐν κεφαλαίῳ
+administration.10888.2.5.lemmas λόγος ἐν κεφάλαιος
+administration.10888.2.6.text τῶν διαγεγραμμένων ἡμῖν
+administration.10888.2.6.lemmas ὁ διαγράφω ἐγώ
+administration.10888.2.7.text εἰς ἀρίθμησιν Μεχεὶρ Φαμενὼθ
+administration.10888.2.7.lemmas εἰς ἀρίθμησις Μεχείρ Φαμενώθ
+administration.10888.2.8.text τοῦ ἐνεστῶτος κϛ ἔτους
+administration.10888.2.8.lemmas ὁ ἐνίστημι κϛ# ἔτος
+administration.10888.2.9.text Μάρκου Αὐρηλίου
+administration.10888.2.9.lemmas Μάρκος Αὐρήλιος
+administration.10888.2.10.text Κομμόδου Ἀντωνείνου
+administration.10888.2.10.lemmas Κόμμοδος Ἀντωνεῖνος
+administration.10888.2.11.text Σεβαστοῦ .
+administration.10888.2.11.lemmas Σεβαστός .
+administration.10888.3.11.text ἔστι δέ .
+administration.10888.3.11.lemmas εἰμί δέ .
+administration.10888.4.12.text διοικήσεως κε ἔτους
+administration.10888.4.12.lemmas διοίκησις κε# ἔτος
+administration.10888.4.13.text ἀπομοίρας δραχμαὶ σμ , ναυβίου δραχμαὶ ι ,
+administration.10888.4.13.lemmas ἀπόμοιρα δραχμή σμ , ναύβιον δραχμή ι# ,
+administration.10888.4.14.text προσδιαγραφόμενα δραχμαὶ ν , ἐπαρουρίου
+administration.10888.4.14.lemmas προσδιαγράφω δραχμή ν# , παρουριόω
+administration.10888.4.15.text δραχμαὶ ρνϛ , προσδιαγραφόμενα δραχμαὶ ιβ , κολλύβου [...] ,
+administration.10888.4.15.lemmas δραχμή ρνϛ# , προσδιαγράφω δραχμή ιβ# , κόλλυβος _ ,
+administration.10888.4.16.text συμβολικὰ δραχμὴ α ὀβολὸς , γίνονται δραχμαὶ [...]
+administration.10888.4.16.lemmas συμβολικός δραχμή α# ὀβολός , γίγνομαι δραχμή _
+administration.10888.4.17.text καὶ ἐπὶ τὴν δημοσίαν τράπεζαν
+administration.10888.4.17.lemmas καί ἐπί ὁ δημόσιος τράπεζα
+administration.10888.4.18.text δραχμαὶ σμε .
+administration.10888.4.18.lemmas δραχμή σμε .
+administration.10888.5.19.text γίνονται ἐπὶ τὸ αὐτὸ δραχμαὶ [...]
+administration.10888.5.19.lemmas γίγνομαι ἐπί ὁ αὐτός δραχμή _
+administration.10888.5.20.text ἔτους κϛ , Φαρμοῦθι κθ .
+administration.10888.5.20.lemmas ἔτος κϛ# , Φαρμουθί κθ# .
+administration.10888.6.18.text γίνονται ἐπὶ τὸ αὐτὸ δραχμαὶ Αρλα .
+administration.10888.6.18.lemmas γίγνομαι ἐπί ὁ αὐτός δραχμή Αρλα .
+administration.10888.7.19.text ἔτους κϛ , Παχὼν κε .
+administration.10888.7.19.lemmas ἔτος κϛ# , Παχών κε# .
+administration.10960.1.1.text [...]
+administration.10960.1.1.lemmas _
+administration.10960.2.1.text [...]
+administration.10960.2.1.lemmas _
+administration.10960.2.00.text λοιπογραφίας Φαῶφι πυροῦ ἀρτάβαι σκθ τούτων ἐλίπησαν μ καὶ εἰς ὀψώνια
+administration.10960.2.00.lemmas λοιπογραφία Φαωφί πυρός ἀρτάβη σκθ οὗτος λιπάω μ# καί εἰς ὀψώνιον
+administration.10960.3.35.text [...]
+administration.10960.3.35.lemmas _
+administration.10960.3.36.text ψιλὸν τόπον πρότερον ὄντα [...]
+administration.10960.3.36.lemmas ψιλός τόπος πρότερος εἰμί _
+administration.10960.4.36.text [...] τῷ
+administration.10960.4.36.lemmas _ ὁ
+administration.10960.4.36-37.text δευτέρῳ
+administration.10960.4.36-37.lemmas δεύτερος
+administration.10960.4.37.text ἔτει θεοῦ Αἰλίου Ἀντωνίνου [...]
+administration.10960.4.37.lemmas ἔτος θεός Αἴλιος Ἀντωνῖνος _
+administration.10960.5.37.text [...]
+administration.10960.5.37.lemmas _
+administration.10960.5.38.text [...] ἐπὶ Σερήνου στρατηγήσαντος [...]
+administration.10960.5.38.lemmas _ ἐπί Σερῆνος στρατηγέω _
+administration.10960.6.38.text [...]
+administration.10960.6.38.lemmas _
+administration.10960.6.39.text Μάρκου Λίβιου Λιβιανοῦ τοῦ καὶ [...]
+administration.10960.6.39.lemmas Μάρκος Λίβιος Λιβιανός ὁ καί _
+administration.10960.7.39.text [...] Οὐεγέτου
+administration.10960.7.39.lemmas _ Οὐέγετος
+administration.10960.7.40.text τοῦ καὶ Σαραπίωνος στρατηγήσαντος Ἡρακλείδου μερίδος [...]
+administration.10960.7.40.lemmas ὁ καί Σαραπίων στρατηγέω Ἡρακλείδης μερίς _
+administration.10960.8.40.text [...]
+administration.10960.8.40.lemmas _
+administration.10960.8.41.text τιμῆς ἀργυρίου δραχμῶν διακοσίων [...]
+administration.10960.8.41.lemmas τιμή ἀργύριον δραχμή διακόσιοι _
+administration.10960.9.41.text [...]
+administration.10960.9.41.lemmas _
+administration.10960.9.42.text διὰ τῶν προτέρων βιβλιοφυλάκων [...]
+administration.10960.9.42.lemmas διά ὁ πρότερος βιβλιοφύλαξ _
+administration.10960.10.42.text [...]
+administration.10960.10.42.lemmas _
+administration.10960.10.43.text ὑπομνηματισμοῦ ἐπεσκεμμένου [...]
+administration.10960.10.43.lemmas ὑπομνηματισμός ἐπισκοπέω _
+administration.10960.11.43.text [...]
+administration.10960.11.43.lemmas _
+administration.10960.11.44.text ἐξ συνκολλησίμων χρηματισμῶν [...]
+administration.10960.11.44.lemmas ἐκ συνκολλήσιμος χρηματισμός _
+administration.10960.12.44.text [...]
+administration.10960.12.44.lemmas _
+administration.10960.12.44-45.text δημοσίων
+administration.10960.12.44-45.lemmas δημόσιος
+administration.10960.12.45.text τραπεζιτῶν ὡς [...]
+administration.10960.12.45.lemmas τραπεζίτης ὡς _
+administration.10960.13.45.text [...]
+administration.10960.13.45.lemmas _
+administration.10960.13.46.text καταλογείου τῷ ια ἔτει θεοῦ Αἰλίου Ἀντωνίνου [...]
+administration.10960.13.46.lemmas καταλογεῖον ὁ ια# ἔτος θεός Αἴλιος Ἀντωνῖνος _
+administration.10960.14.46.text [...]
+administration.10960.14.46.lemmas _
+administration.10960.14.47.text ἐπὶ τοῦ θ ἔτους Παχὼν καὶ τοῦ γενομένου [...]
+administration.10960.14.47.lemmas ἐπί ὁ θ# ἔτος Παχών καί ὁ γίγνομαι _
+administration.10960.15.47.text [...]
+administration.10960.15.47.lemmas _
+administration.10960.15.48.text ἕνεκα δὲ τοῦ μετὰ ταῦτα κατεσχῆσθαι [...]
+administration.10960.15.48.lemmas ἕνεκα δέ ὁ μετά οὗτος κατεισχάω _
+administration.10960.16.48.text [...]
+administration.10960.16.48.lemmas _
+administration.10960.16.49.text τὸν πόρον συνπαρεθέμην ὑμῖν [...]
+administration.10960.16.49.lemmas ὁ πόρος συνπαρατίθημι σύ _
+administration.10960.17.49.text [...]
+administration.10960.17.49.lemmas _
+administration.10960.17.50.text Παῦνι θ ἐπιστολῆς περὶ τῆς [...]
+administration.10960.17.50.lemmas Παῦνι θ# ἐπιστολή περί ὁ _
+administration.10960.18.50.text [...]
+administration.10960.18.50.lemmas _
+administration.10960.18.50-51.text ἐπεσκεμμένης
+administration.10960.18.50-51.lemmas ἐπισκοπέω
+administration.10960.18.51.text ὁμοίως ἐκ τῆς ἐπὶ τῶν [...]
+administration.10960.18.51.lemmas ὅμοιος ἐκ ὁ ἐπί ὁ _
+administration.10960.19.51.text [...]
+administration.10960.19.51.lemmas _
+administration.10960.19.51-52.text ἀπεγραψάμην
+administration.10960.19.51-52.lemmas ἀπογράφω
+administration.10960.19.52.text ἐγὼ ὁ Διόδωρος τὸν αὐτὸν [...]
+administration.10960.19.52.lemmas ἐγώ ὁ Διόδωρος ὁ αὐτός _
+administration.10960.20.52.text [...] εἰς τὸ
+administration.10960.20.52.lemmas _ εἰς ὁ
+administration.10960.20.52-53.text μηδεμίαν
+administration.10960.20.52-53.lemmas μηδείς
+administration.10960.20.53.text ζήτησιν εἶναι περὶ τὸν [...] [...]
+administration.10960.20.53.lemmas ζήτησις εἰμί περί ὁ _ _
+administration.10960.21.53.text [...]
+administration.10960.21.53.lemmas _
+administration.10960.21.53-54.text βιβλιοθήκης
+administration.10960.21.53-54.lemmas βιβλιοθήκη
+administration.10960.21.54.text ἐξ ἀπολογισμοῦ ἐπιστολῶν [...]
+administration.10960.21.54.lemmas ἐκ ἀπολογισμός ἐπιστολή _
+administration.10960.22.54.text [...] Μαξίμου
+administration.10960.22.54.lemmas _ Μάξιμος
+administration.10960.22.55.text τοῦ καὶ Νεάρχου στρατηγήσαντος Ἡρακλείδου μερίδος [...]
+administration.10960.22.55.lemmas ὁ καί Νέαρχος στρατηγέω Ἡρακλείδης μερίς _
+administration.10960.23.55.text [...]
+administration.10960.23.55.lemmas _
+administration.10960.23.56.text [...] ἕτερος ἐστιν καὶ ἕνεκα τοῦ [...]
+administration.10960.23.56.lemmas _ ἕτερος εἰμί καί ἕνεκα ὁ _
+administration.10960.24.56.text [...]
+administration.10960.24.56.lemmas _
+administration.10960.24.56-57.text συμπεφώνησθαι
+administration.10960.24.56-57.lemmas συμπεφώνησθκω
+administration.10960.24.57.text Θεωδώρου [...] [...]
+administration.10960.24.57.lemmas Θεώδωρος _ _
+administration.10960.25.57.text [...]
+administration.10960.25.57.lemmas _
+administration.10960.25.58.text Θαισάριον γυναῖκα προσελήλυθεν [...]
+administration.10960.25.58.lemmas Θαισάριον γυνή προσέρχομαι _
+administration.10960.26.58.text [...]
+administration.10960.26.58.lemmas _
+administration.10960.26.59.text ἐκ δημοσίας βιβλιοθήκης ἀπὸ [...]
+administration.10960.26.59.lemmas ἐκ δημόσιος βιβλιοθήκη ἀπό _
+administration.10960.27.59.text [...]
+administration.10960.27.59.lemmas _
+administration.10960.27.60.text ὡς ἐδηλώθη ὑπὸ πραγματικῶν ὁ διὰ [...]
+administration.10960.27.60.lemmas ὡς δηλόω ὑπό πραγματικός ὁ διά _
+administration.10960.28.60.text [...]
+administration.10960.28.60.lemmas _
+administration.10960.28.61.text καὶ ὀμνύω τὴν Ἀντωνίνου καὶ Οὐήρου τῶν κυρίων Σεβαστῶν τύχην [...]
+administration.10960.28.61.lemmas καί ὄμνυμι ὁ Ἀντωνῖνος καί Οὐῆρος ὁ κύριος Σεβαστός τύχη _
+administration.10960.29.61.text [...] ἔτους [...] Αὐτοκράτορος Καίσαρος Μάρκου Αὐρηλίου Ἀντωνίνου Σεβαστοῦ [...]
+administration.10960.29.61.lemmas _ ἔτος _ Αὐτοκράτωρ Καῖσαρ Μάρκος Αὐρήλιος Ἀντωνῖνος Σεβαστός _
+administration.10960.30.61.text [...]
+administration.10960.30.61.lemmas _
+administration.10960.30.62.text καὶ Αὐτοκράτορος Καίσαρος Λουκίου Αὐρηλίου Οὐήρου Σεβαστοῦ [...]
+administration.10960.30.62.lemmas καί Αὐτοκράτωρ Καῖσαρ Λούκιος Αὐρήλιος Οὐῆρος Σεβαστός _
+administration.3064.1.1.text [...]
+administration.3064.1.1.lemmas _
+administration.3064.2.1.text [...] πυροῦ [...]
+administration.3064.2.1.lemmas _ πυρός _
+administration.3064.3.1.text [...]
+administration.3064.3.1.lemmas _
+administration.3064.3.2.text [...]
+administration.3064.3.2.lemmas _
+administration.3064.4.2.text [...] τοῦ [...] ἔτους Παῦνι [...]
+administration.3064.4.2.lemmas _ ὁ _ ἔτος Παῦνι _
+administration.3064.5.2.text [...] κθ
+administration.3064.5.2.lemmas _ κθ#
+administration.3064.5.3.text [...]
+administration.3064.5.3.lemmas _
+administration.3064.6.3.text [...] τοῦ ζ ἔτους Παῦνι ια
+administration.3064.6.3.lemmas _ ὁ ζ# ἔτος Παῦνι ια#
+administration.3064.6.4.text [...]
+administration.3064.6.4.lemmas _
+administration.3064.7.4.text [...] πυροῦ ν [...] γίνονται πβ
+administration.3064.7.4.lemmas _ πυρός ν# _ γίγνομαι πβ#
+administration.3064.7.5.text [...]
+administration.3064.7.5.lemmas _
+administration.3064.8.5.text [...] πυροῦ Αυνθ 𐅵
+administration.3064.8.5.lemmas _ πυρός Αυνθ# 𐅵
+administration.3064.8.6.text [...]
+administration.3064.8.6.lemmas _
+administration.3064.9.6.text [...] τοῦ ιθ ἔτους κριθῆς ξζ 𐅵
+administration.3064.9.6.lemmas _ ὁ ιθ# ἔτος κριθή ξζ# 𐅵
+administration.3064.9.7.text ἀφʼ ὧν γράφει
+administration.3064.9.7.lemmas ἀπό ὅς γράφω
+administration.3064.9.8.text [...]
+administration.3064.9.8.lemmas _
+administration.3064.10.8.text [...] μεμετρῆσθαι
+administration.3064.10.8.lemmas _ μετρέω
+administration.3064.10.9.text [...]
+administration.3064.10.9.lemmas _
+administration.3064.11.9.text [...]
+administration.3064.11.9.lemmas _
+administration.3064.11.10.text [...]
+administration.3064.11.10.lemmas _
+administration.3064.12.10.text [...]
+administration.3064.12.10.lemmas _
+administration.3064.12.11.text [...]
+administration.3064.12.11.lemmas _
+administration.21837.1.1.text λα
+administration.21837.1.1.lemmas λα
+administration.21837.1.2.text Φλαυίῳ
+administration.21837.1.2.lemmas Φλάυιος
+administration.21837.1.2-3.text Ἁρποκρατίωνι
+administration.21837.1.2-3.lemmas Ἁρποκρατίων
+administration.21837.1.3.text στρατηγῷ Ὀξυρυγχίτου
+administration.21837.1.3.lemmas στρατηγός Ὀξυρυγχίτης
+administration.21837.1.4.text παρὰ Αὐρηλίων
+administration.21837.1.4.lemmas παρά Αὐρήλις
+administration.21837.1.5.text Νεχθενίβιος
+administration.21837.1.5.lemmas Νεχθενιβις
+administration.21837.1.6.text καὶ τῶν σὺν αὐτῷ
+administration.21837.1.6.lemmas καί ὁ σύν αὐτός
+administration.21837.1.7.text πρακτόρων ἀργυρικῶν
+administration.21837.1.7.lemmas πράκτωρ ἀργυρικός
+administration.21837.1.8.text μητροπολιτικῶν λημμάτων
+administration.21837.1.8.lemmas μητροπολιτικός λῆμμα
+administration.21837.1.9.text Θμοισεφὼ τοπαρχίας
+administration.21837.1.9.lemmas Θμοισεφώ τοπαρχία
+administration.21837.1.10.text Κεσμούχεως τόπων .
+administration.21837.1.10.lemmas Κεσμούχης τόπος .
+administration.21837.2.11.text κατʼ ἄνδρα
+administration.21837.2.11.lemmas κατά ἀνήρ
+administration.21837.2.11-12.text εἰσπράξεως
+administration.21837.2.11-12.lemmas εἴσπραξις
+administration.21837.2.12-13.text ἀριθμήσεως
+administration.21837.2.12-13.lemmas ἀρίθμησις
+administration.21837.2.13.text μηνὸς
+administration.21837.2.13.lemmas μείς
+administration.21837.2.13-14.text Μεσορὴ
+administration.21837.2.13-14.lemmas Μεσορή
+administration.21837.2.14.text τοῦ
+administration.21837.2.14.lemmas ὁ
+administration.21837.2.14-15.text διελθόντος
+administration.21837.2.14-15.lemmas διέρχομαι
+administration.21837.2.15.text α ἔτους
+administration.21837.2.15.lemmas α# ἔτος
+administration.21837.2.16.text Αὐτοκρατόρων
+administration.21837.2.16.lemmas Αὐτοκράτωρ
+administration.21837.2.17.text Καισάρων Μάρκου
+administration.21837.2.17.lemmas Καῖσαρ Μάρκος
+administration.21837.2.18.text Κλωδίου
+administration.21837.2.18.lemmas Κλώδιος
+administration.21837.2.19.text καὶ Δεκίμου
+administration.21837.2.19.lemmas καί Δέκιμος
+administration.21837.2.20.text Καιλίου Καλουίνου
+administration.21837.2.20.lemmas Καίλιος Καλουῖνος
+administration.21837.2.21.text Εὐσεβῶν
+administration.21837.2.21.lemmas Εὐσεβής
+administration.21837.2.22.text Εὐτυχῶν Σεβαστῶν
+administration.21837.2.22.lemmas Εὐτύχης Σεβαστός
+administration.21837.2.23.text καὶ Μάρκου Ἀντωνίου
+administration.21837.2.23.lemmas καί Μάρκος Ἀντώνιος
+administration.21837.2.24.text Γορδιανοῦ
+administration.21837.2.24.lemmas Γορδιανός
+administration.21837.2.25.text τοῦ ἱερωτάτου
+administration.21837.2.25.lemmas ὁ ἱερός
+administration.21837.2.26.text Καίσαρος .
+administration.21837.2.26.lemmas Καῖσαρ .
+administration.21837.3.26.text ἔστι δέ ·
+administration.21837.3.26.lemmas εἰμί δέ ·
+administration.21837.4.27.text διεγράφησαν ἐπὶ τὴν
+administration.21837.4.27.lemmas διαγράφω ἐπί ὁ
+administration.21837.4.28.text δημοσίαν
+administration.21837.4.28.lemmas δημόσιος
+administration.21837.4.28-29.text τράπεζαν
+administration.21837.4.28-29.lemmas τράπεζα
+administration.21837.4.29.text δραχμαὶ τιϛ ,
+administration.21837.4.29.lemmas δραχμή τιϛ# ,
+administration.21837.4.30.text ὧν
+administration.21837.4.30.lemmas ὅς
+administration.21837.4.31.text Διογενὶς [...]
+administration.21837.4.31.lemmas Διογενίς _
+administration.21837.4.32.text [...]
+administration.21837.4.32.lemmas _
+administration.21837.5.54.text κληρονόμοι
+administration.21837.5.54.lemmas κληρονόμος
+administration.21837.5.55.text [...]
+administration.21837.5.55.lemmas _
+administration.21837.5.55-56.text Παυσιρίωνος
+administration.21837.5.55-56.lemmas Παυσιρίων
+administration.21837.5.56.text δραχμαὶ μ ,
+administration.21837.5.56.lemmas δραχμή μ# ,
+administration.21837.5.57.text Σαραπίων ὁ καὶ
+administration.21837.5.57.lemmas Σαραπίων ὁ καί
+administration.21837.5.58.text Διονύσιος καὶ
+administration.21837.5.58.lemmas Διονύσιος καί
+administration.21837.5.59.text Ἀριστόκλεια
+administration.21837.5.59.lemmas Ἀριστόκλεια
+administration.21837.5.60.text ἡ καὶ Ἀρσινόη δραχμαὶ μ ,
+administration.21837.5.60.lemmas ὁ καί Ἀρσινόη δραχμή μ# ,
+administration.21837.5.61.text [...]
+administration.21837.5.61.lemmas _
+administration.15958.1.24.text ὑπατείας Ἰουνίου Βάσσου καὶ Φλαουίου
+administration.15958.1.24.lemmas ὑπατεία Ἰούνιος Βάσσος καί Φλάουιος
+administration.15958.1.25.text Ἀβλαβίου τῶν λαμπροτάτων [...]
+administration.15958.1.25.lemmas Ἀβλάβιος ὁ λαμπρός _
+administration.15958.2.25.text [...]
+administration.15958.2.25.lemmas _
+administration.15958.2.26.text Φλαουίῳ Ἰουλιανῷ λογιστῇ καὶ
+administration.15958.2.26.lemmas φλαϝιυς Ἰουλιανός λογιστής καί
+administration.15958.2.27.text Κλαυδίῳ Ἑρμείᾳ ἐκδίκῳ Ὀξυρυγχίτου
+administration.15958.2.27.lemmas Κλαύδιος Ἑρμῆς ἔκδικος Ὀξυρυγχίτης
+administration.15958.2.28.text παρὰ Αὐρηλίων Θεωνίνου καὶ
+administration.15958.2.28.lemmas παρά Αὐρήλις Θεωνῖνος καί
+administration.15958.2.29.text Ἥρωνος καὶ Σιλβανοῦ καὶ Διδύμου
+administration.15958.2.29.lemmas Ἥρων καί Σιλβανός καί Δίδυμος
+administration.15958.2.30.text δημοσίων ἰατρῶν τῆς λαμπρᾶς
+administration.15958.2.30.lemmas δημόσιος ἰατρός ὁ λαμπρός
+administration.15958.2.31.text καὶ λαμπροτάτης Ὀξυρυγχιτῶν πόλεως .
+administration.15958.2.31.lemmas καί λαμπρός Ὀξυρυγχίτης πόλις .
+administration.15958.3.31.text ἐπεστάλημεν
+administration.15958.3.31.lemmas ἐπιστέλλω
+administration.15958.3.32.text ὑπὸ τῆς ὑμῶν ἐμμελείας ἐκ
+administration.15958.3.32.lemmas ὑπό ὁ σύ ἐμμέλεια ἐκ
+administration.15958.3.32-33.text βιβλιδίων
+administration.15958.3.32-33.lemmas βιβλίδιον
+administration.15958.3.33.text ἐπιδοθέντων ὑπὸ
+administration.15958.3.33.lemmas ἐπιδίδωμι ὑπό
+administration.15958.3.34.text Αὐρηλίου Παησίου Σενενοῦφιος
+administration.15958.3.34.lemmas Αὐρήλιος Παήσιος Σενενοῦφιος
+administration.15958.3.35.text ἀπὸ κώμης Πέλα ὥστε ἐπιδεῖν
+administration.15958.3.35.lemmas ἀπό κώμη Πέλας ὥστε ἐφοράω
+administration.15958.3.36.text τὴν περὶ αὐτὸν διάθεσιν καὶ
+administration.15958.3.36.lemmas ὁ περί αὐτός διάθεσις καί
+administration.15958.3.37.text ἐνγράφως προσφωνῆσαι .
+administration.15958.3.37.lemmas ἔνγραφος προσφωνέω .
+administration.15958.4.37.text ὅθεν
+administration.15958.4.37.lemmas ὅθεν
+administration.15958.4.38.text τοῦτον ἐπείδομεν ἐπὶ γραβάτου
+administration.15958.4.38.lemmas οὗτος ἐφοράω ἐπί γράβατος
+administration.15958.4.39.text ἐν τῷ δημοσίῳ λογιστηρίῳ
+administration.15958.4.39.lemmas ἐν ὁ δημόσιος λογιστήριον
+administration.15958.4.40.text ἔχοντα ἐπὶ τοῦ δεξιοῦ μέρους
+administration.15958.4.40.lemmas ἔχω ἐπί ὁ δεξιός μέρος
+administration.15958.4.41.text τῆς κορυφῆς τραύματα [...]
+administration.15958.4.41.lemmas ὁ κορυφή τραῦμα _
+administration.15958.4.42.text [...] ὑμένος
+administration.15958.4.42.lemmas _ ὑμήν
+administration.15958.4.43.text καὶ ἐπὶ τοῦ δεξιοῦ μέρους τοῦ
+administration.15958.4.43.lemmas καί ἐπί ὁ δεξιός μέρος ὁ
+administration.15958.4.44.text μετώπου οἴδημα καὶ ἐπὶ τοῦ
+administration.15958.4.44.lemmas μέτωπον οἴδημα καί ἐπί ὁ
+administration.15958.4.45.text πήχυος τῆς ἀριστερᾶς χειρὸς
+administration.15958.4.45.lemmas πῆχυς ὁ ἀριστερός χείρ
+administration.15958.4.46.text πελίωμα μετὰ ἀμυχῆς καὶ ἐπὶ
+administration.15958.4.46.lemmas πελίωμα μετά ἀμυχή καί ἐπί
+administration.15958.4.47.text τοῦ πήχυος τῆς δεξιᾶς χειρὸς
+administration.15958.4.47.lemmas ὁ πῆχυς ὁ δεξιός χείρ
+administration.15958.4.48.text πελιωμάτιον , ἅπερ
+administration.15958.4.48.lemmas πελιωμάτιον , ὅσπερ
+administration.15958.4.48-49.text προσφωνοῦμεν
+administration.15958.4.48-49.lemmas προσφωνέω
+administration.15958.4.49.text .
+administration.15958.4.49.lemmas .
+administration.15958.5.50.text ὑπατείας τῆς προκειμένης Παῦνι κ .
+administration.15958.5.50.lemmas ὑπατεία ὁ πρόκειμαι Παῦνι κ# .
+administration.15958.6.51.text Αὐρήλιος Θεωνῖνος προσεφώνησα ὡς πρόκιται .
+administration.15958.6.51.lemmas Αὐρήλιος Θεωνῖνος προσφωνέω ὡς πρόκειμαι .
+administration.15958.7.52.text Αὐρήλιος Ἥρων προσεφώνησα ὡς πρόκειται .
+administration.15958.7.52.lemmas Αὐρήλιος Ἥρων προσφωνέω ὡς πρόκειμαι .
+administration.15958.8.53.text Αὐρήλιος Σιλβανὸς προσεφώνησα ὡς πρόκιται .
+administration.15958.8.53.lemmas Αὐρήλιος Σιλβανός προσφωνέω ὡς πρόκειμαι .
+administration.15246.1.1.text [...]
+administration.15246.1.1.lemmas _
+administration.15246.2.47.text [...]
+administration.15246.2.47.lemmas _
+administration.15246.2.48.text [...]
+administration.15246.2.48.lemmas _
+administration.15246.3.48.text [...]
+administration.15246.3.48.lemmas _
+administration.15246.3.49.text [...]
+administration.15246.3.49.lemmas _
+administration.15246.4.49.text [...]
+administration.15246.4.49.lemmas _
+administration.15246.4.50.text [...]
+administration.15246.4.50.lemmas _
+administration.15246.5.50.text [...]
+administration.15246.5.50.lemmas _
+administration.15246.5.51.text ἔδοξεν [...]
+administration.15246.5.51.lemmas δοκέω _
+administration.15246.6.51.text [...]
+administration.15246.6.51.lemmas _
+administration.15246.6.52.text [...]
+administration.15246.6.52.lemmas _
+administration.15246.7.52.text [...] οὐδέν .
+administration.15246.7.52.lemmas _ οὐδείς .
+administration.15246.8.53.text [...]
+administration.15246.8.53.lemmas _
+administration.15246.9.53.text [...] οὐδέν .
+administration.15246.9.53.lemmas _ οὐδείς .
+administration.15246.10.54.text [...]
+administration.15246.10.54.lemmas _
+administration.15246.11.54.text [...] Σαραπίων [...]
+administration.15246.11.54.lemmas _ Σαραπίων _
+administration.15246.12.54.text [...]
+administration.15246.12.54.lemmas _
+administration.15246.12.55.text [...]
+administration.15246.12.55.lemmas _
+administration.15246.13.55.text [...]
+administration.15246.13.55.lemmas _
+administration.15246.13.56.text [...]
+administration.15246.13.56.lemmas _
+administration.15246.14.56.text [...] ἔχειν τὰς ἀγωγάς .
+administration.15246.14.56.lemmas _ ἔχω ὁ ἀγωγή .
+administration.15246.15.57.text ἔδοξεν τὴν ἐπιστολὴν ἀναλημφθῆναι
+administration.15246.15.57.lemmas δοκέω ὁ ἐπιστολή ἀναλαμβάνω
+administration.15246.15.58.text τοῖς ὑπομνήμασι .
+administration.15246.15.58.lemmas ὁ ὑπόμνημα .
+administration.15246.16.59.text ἄλλο ὁ λογιστὴς ἠξίωσεν [...]
+administration.15246.16.59.lemmas ἄλλος ὁ λογιστής ἀξιόω _
+administration.15246.16.60.text πληρῶσαι τοὺς δανειστὰς ἐπὶ
+administration.15246.16.60.lemmas πληρόω ὁ δανειστής ἐπί
+administration.15246.16.61.text τριετεῖ χρόνῳ .
+administration.15246.16.61.lemmas τριετής χρόνος .
+administration.15246.17.62.text ἔδοξεν οὕτω γίγνεσθαι .
+administration.15246.17.62.lemmas δοκέω οὕτως γίγνομαι .
+administration.15246.18.63.text ι περὶ ἐξετάσεως ἀπελασίας βοός
+administration.15246.18.63.lemmas ι# περί ἐξέτασις ἀπελασία βοῦς
+administration.7486.1.1.text ἰλάρχης Μενέδημος Χαλκιδεὺς [...]
+administration.7486.1.1.lemmas ἰλάρχης Μενέδημος Χαλκιδεύς _
+administration.7486.2.1.text [...]
+administration.7486.2.1.lemmas _
+administration.7486.2.2.text πυρρὰν φαλιὰν θήλειαν [...]
+administration.7486.2.2.lemmas πυρρός φαλιός θῆλυς _
+administration.7486.3.2.text [...]
+administration.7486.3.2.lemmas _
+administration.7486.3.3.text [...] [...] τῶν αὐτῶν
+administration.7486.3.3.lemmas _ _ ὁ αὐτός
+administration.7486.3.4.text ἰλάρχης Πολέμων [...] Παίων
+administration.7486.3.4.lemmas ἰλάρχης Πολέμων _ Παίων
+administration.7486.3.5.text σπαλακὸς [...]
+administration.7486.3.5.lemmas σπαλακός _
+administration.7486.4.5.text [...]
+administration.7486.4.5.lemmas _
+administration.7486.4.6.text [...] Ἑρμίων Ἁργαῖος
+administration.7486.4.6.lemmas _ Ἑρμίων Ἁργαῖος
+administration.7486.4.7.text παρούαν θήλειαν [...]
+administration.7486.4.7.lemmas παρούα θῆλυς _
+administration.7486.5.7.text [...]
+administration.7486.5.7.lemmas _
+administration.7486.5.8.text ἱππάρχης Εὐπόλεμος Σικυώνιος [...]
+administration.7486.5.8.lemmas ἱππάρχης Εὐπόλεμος Σικυώνιος _
+administration.7486.6.8.text [...]
+administration.7486.6.8.lemmas _
+administration.7486.6.9.text [...]
+administration.7486.6.9.lemmas _
+administration.7486.7.6.text [...]
+administration.7486.7.6.lemmas _
+administration.7486.7.7.text ἐπιστολὴν τῶν [...]
+administration.7486.7.7.lemmas ἐπιστολή ὁ _
+administration.7486.8.7.text [...]
+administration.7486.8.7.lemmas _
+administration.7486.8.8.text [...]
+administration.7486.8.8.lemmas _
+administration.7486.9.10.text [...] παρούαν πρωτοβόλον θήλειαν
+administration.7486.9.10.lemmas _ παρούα πρωτοβόλος θῆλυς
+administration.7486.9.11.text ιη
+administration.7486.9.11.lemmas ιη#
+administration.7486.9.12.text [...]
+administration.7486.9.12.lemmas _
+administration.7486.10.12.text [...] ἐπιστολὴν προσῆλθεν πρὸς τοὺς ἵππους
+administration.7486.10.12.lemmas _ ἐπιστολή προσέρχομαι πρός ὁ ἵππος
+administration.7486.10.13.text [...]
+administration.7486.10.13.lemmas _
+administration.7486.11.13.text [...] τῶν ἐν τῶι ε ἔτει παραγεγονότων
+administration.7486.11.13.lemmas _ ὁ ἐν ὁ ε# ἔτος παραγίγνομαι
+administration.7486.11.14.text [...]
+administration.7486.11.14.lemmas _
+administration.7486.12.14.text [...] Βοιώτιος
+administration.7486.12.14.lemmas _ Βοιώτιος
+administration.7486.12.16.text [...]
+administration.7486.12.16.lemmas _
+administration.7486.13.16.text [...]
+administration.7486.13.16.lemmas _
+administration.7486.13.17.text [...]
+administration.7486.13.17.lemmas _
+administration.7486.14.17.text [...] Ἀρκάς
+administration.7486.14.17.lemmas _ Ἀρκάς
+administration.7486.14.18.text [...]
+administration.7486.14.18.lemmas _
+administration.7486.15.18.text [...] λευκὸν [...] [...]
+administration.7486.15.18.lemmas _ λευκός _ _
+administration.13058.1.26.text ὑπατείας Νεπωτιανοῦ καὶ Φακούνδου τῶν
+administration.13058.1.26.lemmas ὑπατεία Νεπωτιανός καί Φακοῦνδος ὁ
+administration.13058.1.27.text λαμπροτάτων , Χοιὰκ ιθ .
+administration.13058.1.27.lemmas λαμπρός , Χοίακ ιθ# .
+administration.13058.2.27.text [...]
+administration.13058.2.27.lemmas _
+administration.13058.3.27.text [...]
+administration.13058.3.27.lemmas _
+administration.13058.3.28.text [...]
+administration.13058.3.28.lemmas _
+administration.13058.4.28.text [...] Θεαδελφίας
+administration.13058.4.28.lemmas _ Θεαδελφία
+administration.13058.4.29.text [...]
+administration.13058.4.29.lemmas _
+administration.13058.5.29.text [...]
+administration.13058.5.29.lemmas _
+administration.13058.5.29-30.text τάλαντα
+administration.13058.5.29-30.lemmas τάλαντον
+administration.13058.5.30.text διακόσια ἐνενήκοντα δύο , τάλαντα σϙβ
+administration.13058.5.30.lemmas διακόσιοι ἐνενήκοντα δύο , τάλαντον σ?β#
+administration.13058.5.31.text [...]
+administration.13058.5.31.lemmas _
+administration.13058.6.31.text [...] τάλαντα
+administration.13058.6.31.lemmas _ τάλαντον
+administration.13058.6.32.text ἑκατὸν τριάκοντα , γίνονται τάλαντα ρλ
+administration.13058.6.32.lemmas ἑκατόν τριάκοντα , γίγνομαι τάλαντον ρλ#
+administration.13058.6.33.text [...]
+administration.13058.6.33.lemmas _
+administration.13058.7.33.text [...] γίνονται τάλαντα ιδ
+administration.13058.7.33.lemmas _ γίγνομαι τάλαντον ιδ#
+administration.3789.1.1.text [...]
+administration.3789.1.1.lemmas _
+administration.3789.2.1.text [...]
+administration.3789.2.1.lemmas _
+administration.3789.2.00.text καὶ τῶι ϛ ἔτει προσγίνεται αἱ κατεργασθεῖσαι ὑπὸ τῶν παρὰ Μαρρείους τοῦ τοπογραμματέως ἀπὸ ὑπολόγου τοῦ περὶ τὴν κώμην ἄρουρα α 𐅵 ἀρτάβαι ζ γ´ ιβ´
+administration.3789.2.00.lemmas καί ὁ ϛ# ἔτος προσγίγνομαι ὁ κατεργάζομαι ὑπό ὁ παρά Μαρρείης ὁ τοπογραμματεύς ἀπό ὑπόλογος ὁ περί ὁ κώμη ἄρουρα α# 𐅵 ἀρτάβη ζ# γ´# ιβ´#
+administration.3855.1.1.text [...]
+administration.3855.1.1.lemmas _
+administration.3855.2.1.text [...]
+administration.3855.2.1.lemmas _
+administration.3855.2.00.text ἀπὸ βορρᾶ καὶ ἀπηλιώτου ἐν τῶι καλουμένωι [...] ἀρχομένη ἀπηλιώτου ἀπὸ τῶν περὶ Θεογονίδα πεδίων νότου δὲ τὰ προγεγεωμετρημένα πεδία κώμη σὺν περιστάσει ο 𐅵 δ´ ὧν συμπεριειλημμένου παραδείσου ἐρήμου α δ´ , καταλείπονται ξθ 𐅵
+administration.3855.2.00.lemmas ἀπό Βορέας καί ἀπηλιώτης ἐν ὁ καλέω _ ἄρχω ἀπηλιώτης ἀπό ὁ περί Θεογονίς πεδίον νότος δέ ὁ προγεωμετρέω πεδίον κώμη σύν περίστασις ο# 𐅵 δ´ ἑός συμπεριλαμβάνω παράδεισος ἐρῆμος α# δ´ , καταλείπω ξθ# 𐅵
+administration.3874.1.1.text ἀφʼ ὧν κατεργασθῆναι
+administration.3874.1.1.lemmas ἀπό ὅς κατεργάζομαι
+administration.3874.1.2.text [...]
+administration.3874.1.2.lemmas _
+administration.3874.2.1.text [...]
+administration.3874.2.1.lemmas _
+administration.3874.2.00.text βασιλικοὶ γεωργοί
+administration.3874.2.00.lemmas βασιλικός γεωργός
+administration.3700.1.107.text Μάρωνος τοῦ Πετοσίριος τοῦ καὶ Διονυσίου
+administration.3700.1.107.lemmas Μάρων ὁ Πετοσῖρις ὁ καί Διονύσιος
+administration.3700.1.108.text τοῦ Νεχτσάφθιος ι ,
+administration.3700.1.108.lemmas ὁ Νεχτσάφθις ι# ,
+administration.3700.1.109.text καὶ ἃς μετεπιγεγράφθαι κατὰ τὸν
+administration.3700.1.109.lemmas καί ὅς μετεπιγράφω κατά ὁ
+administration.3700.1.109-110.text Ἀνικήτου
+administration.3700.1.109-110.lemmas Ἀνίκητος
+administration.3700.1.110.text καὶ τῶν συνπροστατῶν τῶν
+administration.3700.1.110.lemmas καί ὁ συμπροστατέω ὁ
+administration.3700.1.111.text διὰ Κρίτωνος κατοίκων ἱππέων χρηματισμὸν
+administration.3700.1.111.lemmas διά Κρίτων κάτοικος ἱππεύς χρηματισμός
+administration.3700.1.112.text ἀπὸ τοῦ πρότερον Ἡλιοδώρου τοῦ Μηνοδώρου
+administration.3700.1.112.lemmas ἀπό ὁ πρότερος Ἡλιόδωρος ὁ Μηνόδωρος
+administration.3700.1.113.text [...] διὰ τὸ μὴ εὐσυνθετηκέναι
+administration.3700.1.113.lemmas _ διά ὁ μή εὐσυνθετέω
+administration.3700.1.114.text ἐν τῆι διορθώσει τοῦ ἐπιβληθέντος στεφάνου
+administration.3700.1.114.lemmas ἐν ὁ διόρθωσις ὁ ἐπιβάλλω στέφανος
+administration.3700.1.115.text [...]
+administration.3700.1.115.lemmas _
+administration.3700.2.115.text [...]
+administration.3700.2.115.lemmas _
+administration.3700.2.116.text [...]
+administration.3700.2.116.lemmas _
+administration.3700.3.116.text [...]
+administration.3700.3.116.lemmas _
+administration.3700.3.117.text [...]
+administration.3700.3.117.lemmas _
+administration.3700.4.117.text [...]
+administration.3700.4.117.lemmas _
+administration.3700.4.118.text ἐφόδων τῶν ἐν τῶι λδ ἔτει ,
+administration.3700.4.118.lemmas ἔφοδος ὁ ἐν ὁ λδ ἔτος ,
+administration.3700.4.119.text Μενίσκου τοῦ Πτολεμαίου ὃν μετειληφέναι
+administration.3700.4.119.lemmas Μενίσκος ὁ Πτολεμαῖος ὅς μεταλαμβάνω
+administration.3700.4.120.text Πτολεμαῖον τὸν υἱὸν ἐμβρόχου κδ .
+administration.3700.4.120.lemmas Πτολεμαῖος ὁ υἱός ἔμβροχος κδ# .
+administration.3700.5.121.text ἐὰν μὴ συμπληρώσηι τὸ 𐅵 ἀρτάβης ἀναληφθήτω .
+administration.3700.5.121.lemmas ἐάν μή συμπληρόω ὁ 𐅵 ἀρτάβη ἀναλαμβάνω .
+administration.3700.6.122.text Ἀπολλωνίου τοῦ Πτολεμαίου κδ ,
+administration.3700.6.122.lemmas Ἀπολλώνιος ὁ Πτολεμαῖος κδ# ,
+administration.3700.6.123.text πυρῶι ιβ φασήλωι γ ἐμβρόχου θ , γεωργὸς αὐτός .
+administration.3700.6.123.lemmas πυρός ιβ# φάσηλος γ# ἔμβροχος θ# , γεωργός αὐτός .
+administration.3700.7.124.text γίνονται ἀνδρῶν β ἄρουραι μη .
+administration.3700.7.124.lemmas γίγνομαι ἀνήρ β# ἄρουρα μή .
+administration.3700.8.124.text [...]
+administration.3700.8.124.lemmas _
+administration.3700.9.124.text [...]
+administration.3700.9.124.lemmas _
+administration.3700.9.125.text φυλακιτῶν τῶν ἐν τῶι να ἔτει
+administration.3700.9.125.lemmas φυλακίτης ὁ ἐν ὁ να ἔτος
+administration.3700.9.125-126.text καταμεμετρημένων
+administration.3700.9.125-126.lemmas καταμετρέω
+administration.3700.9.126.text χάριν τοῦ προσαγγελῆναι
+administration.3700.9.126.lemmas χάριν ὁ προσαγγέλλω
+administration.3700.9.126-127.text καταμεμετρῆσθαι
+administration.3700.9.126-127.lemmas καταμετρέω
+administration.3700.9.127.text ἀπὸ σπορίμου ἀντὶ χέρσου , ὃν
+administration.3700.9.127.lemmas ἀπό σπόριμος ἀντί χέρσος , ὅς
+administration.3700.9.128.text καὶ καταμεμετρηκέναι τὸ ἐκφόριον α ἔτους ,
+administration.3700.9.128.lemmas καί καταμετρέω ὁ ἐκφόριον α# ἔτος ,
+administration.3700.9.129.text [...]
+administration.3700.9.129.lemmas _
+administration.3700.10.67.text τῶν ἐν τῶι λδ ἔτει καταμεμετρημένων τῶν
+administration.3700.10.67.lemmas ὁ ἐν ὁ λδ ἔτος καταμετρέω ὁ
+administration.3700.10.67-68.text μεταβεβηκότων
+administration.3700.10.67-68.lemmas μεταβαίνω
+administration.3700.10.68.text εἰς τὴν κατοικίαν ἐξ ἐφόδων ,
+administration.3700.10.68.lemmas εἰς ὁ κατοικία ἐκ ἔφοδος ,
+administration.3700.10.69.text Δημητρίου τοῦ Ἡρακλείδου κδ ἀφʼ ὧν
+administration.3700.10.69.lemmas Δημήτριος ὁ Ἡρακλείδης κδ# ἀπό ὅς
+administration.3700.10.69-70.text παρακεχωρῆσθαι
+administration.3700.10.69-70.lemmas παραχωρέω
+administration.3700.10.70.text εἰς τὸ νγ ἔτος ὁ κωμογραμματεὺς ἐπιδεξάμενος [...]
+administration.3700.10.70.lemmas εἰς ὁ νγ# ἔτος ὁ κωμογραμματεύς ἐπιδέχομαι _
+administration.3700.11.70.text [...]
+administration.3700.11.70.lemmas _
+administration.3700.11.71.text Ταυρίσκωι Ἀπολλωνίου ἀσπόρου ιβ ,
+administration.3700.11.71.lemmas Ταυρίσκος Ἀπολλώνιος ἄσπορος ιβ# ,
+administration.3700.11.72.text τὰς λοιπὰς αὐτοῦ ἀσπόρου ιβ .
+administration.3700.11.72.lemmas ὁ λοιπός αὐτός ἄσπορος ιβ# .
+administration.3700.12.73.text [...]
+administration.3700.12.73.lemmas _
+administration.3700.13.19.text γίνονται τῆς ἐπὶ τοῦ προπάππου ἄρουραι ιδ ιϛ´ λβ´ .
+administration.3700.13.19.lemmas γίγνομαι ὁ ἐπί ὁ πρόπαππος ἄρουρα ιδ# ιϛ´# λβ´# .
+administration.3700.14.20.text [...]
+administration.3700.14.20.lemmas _
+administration.3706.1.65.text κατοχίμων κλήρων ·
+administration.3706.1.65.lemmas κατόχιμος κλῆρος ·
+administration.3706.2.66.text εἰκοσιάρουρος Θοτεὺς Ὀρσείους
+administration.3706.2.66.lemmas εἰκοσιάρουρος Θοτεύς Ὀρσείους
+administration.3706.2.67.text ἄρουραι ιε ἀρτάβαι οε ,
+administration.3706.2.67.lemmas ἄρουρα ιε# ἀρτάβη οε ,
+administration.3706.2.68.text Πετεσοῦχος Τεῶτος ϛ 𐅵 λβ 𐅵 ,
+administration.3706.2.68.lemmas Πετεσοῦχος Τεῶς ϛ# 𐅵 λβ# 𐅵 ,
+administration.3706.2.69.text Κολλούθης Ὥρου ἐπὶ
+administration.3706.2.69.lemmas Κολλουθης Ὧρος ἐπί
+administration.3706.2.70.text τὸν Λαβόιτος ϛ 𐅵 λβ 𐅵 ,
+administration.3706.2.70.lemmas ὁ Λαβόις ϛ# 𐅵 λβ# 𐅵 ,
+administration.3706.2.71.text [...] Πετεχῶντος ϛ 𐅵 ἀρτάβαι λβ 𐅵 .
+administration.3706.2.71.lemmas _ Πετεχῶν ϛ# 𐅵 ἀρτάβη λβ# 𐅵 .
+administration.3706.3.55.text [...] ἀρτάβαι λθ γ´ ιβ´ .
+administration.3706.3.55.lemmas _ ἀρτάβη λθ# γ´# ιβ´# .
+administration.3706.4.56.text τῆς δʼ ἐσπαρμένης ἄρουραι Ασγ ιϛ´ ἀρτάβαι Δχνγ ιβ´ .
+administration.3706.4.56.lemmas ὁ δέ σπείρω ἄρουρα Ἄσγ ιϛ´# ἀρτάβη Δχνγ# ιβ´# .
+administration.3706.5.57.text καὶ εἰς ἣν σπέρμα οὐ χρηματίζεται ·
+administration.3706.5.57.lemmas καί εἰς ὅς σπέρμα οὐ χρηματίζω ·
+administration.3706.6.58.text νομῶν ξ ὧν ἐκφόριον τὸ καὶ ἀπηγμένον ἀπὸ τοῦ πλείω συναγομένου
+administration.3706.6.58.lemmas νομός ͵ξ ὅς ἐκφόριον ὁ καί ἀπάγω ἀπό ὁ πολύς συνάγω
+administration.3706.6.59.text τῆς πυρῶι ξ .
+administration.3706.6.59.lemmas ὁ πυρός ͵ξ .
+administration.3706.7.60.text σὺν δὲ τῆι ἐσπαρμένηι
+administration.3706.7.60.lemmas σύν δέ ὁ σπείρω
+administration.3706.7.61.text ἄρουραι Ασξγ ιϛ´ εἰς πυροῦ Δχνγ ιβ´ ,
+administration.3706.7.61.lemmas ἄρουρα Ἄσξγ ιϛ´# εἰς πυρός Δχνγ# ιβ´# ,
+administration.3706.7.62.text ὧν γενισμὸς ἐκ μὲν τῆς ὑποθήκης [...]
+administration.3706.7.62.lemmas ὅς γενισμός ἐκ μέν ὁ ὑποθήκη _
+administration.3706.8.62.text [...]
+administration.3706.8.62.lemmas _
+administration.3706.8.63.text πυροῦ Αχλη 𐅷 , κριθῆς αἳ πυροῦ βωοζ , ὀλύρας αἳ πυροῦ ϙζ 𐅵 δ´ , χαλκοῦ κ [...] λθ γ´ ιβ´ ,
+administration.3706.8.63.lemmas πυρός Αχλη 𐅷 , κριθή ὁ πυρός βωοζ# , ὄλυρα ὅς πυρός ?ζ# 𐅵 δ´ , χάλκεος κ# _ λθ# γ´# ιβ´# ,
+administration.3708.1.24.text Λεοντίσκου τοῦ Λεοντίσκου ὃν μετειληφέναι
+administration.3708.1.24.lemmas Λεοντίσκος ὁ Λεοντίσκος ὅς μεταλαμβάνω
+administration.3708.1.25.text Λέοντα τὸν υἱὸν μ ὧν πυρῶι [...] ἀράκωι ι , ἀσπόρου [...]
+administration.3708.1.25.lemmas Λέων ὁ υἱός μ# ὅς πυρός _ ἄρακος ι# , ἄσπαρτος _
+administration.3708.2.25.text [...]
+administration.3708.2.25.lemmas _
+administration.3708.2.26.text γεωργὸς Πετεσοῦχος
+administration.3708.2.26.lemmas γεωργός Πετεσοῦχος
+administration.3708.2.27.text Ἀμμωνίου τοῦ Ἀπολλωνίου μ ὧν πυρῶι ι ἀράκωι ι
+administration.3708.2.27.lemmas Ἀμμώνιος ὁ Ἀπολλώνιος μ# ὅς πυράζω ι# ἄρακος ι#
+administration.3708.2.28.text χόρτωι ε , γίνονται κε , ἀσπόρου αε , γεωργὸς [...]
+administration.3708.2.28.lemmas χόρτος ε# , γίγνομαι κε# , ἄσπορος αε , γεωργός _
+administration.3708.3.28.text [...]
+administration.3708.3.28.lemmas _
+administration.3708.3.29.text Πετάλου τοῦ Φιλοξένου ὃν μετειληφέναι Δῶρον τὸν υἱὸν μ ὧν [...]
+administration.3708.3.29.lemmas Πέταλος ὁ Φιλόξενος ὅς μεταλαμβάνω Δῶρος ὁ υἱός μ# ὅς _
+administration.3708.4.29.text [...]
+administration.3708.4.29.lemmas _
+administration.3708.4.30.text χόρτωι ε , γίνονται ιε , ἀσπόρου κε , γεωργὸς αὐτός
+administration.3708.4.30.lemmas χόρτος ε# , γίγνομαι ιε# , ἄσπορος κε# , γεωργός αὐτός
+administration.3708.4.31.text γίνονται ἀνδρῶν δ ἄρουραι ρξ
+administration.3708.4.31.lemmas γίγνομαι ἀνήρ δ# ἄρουρα ρξ
+administration.3708.4.32.text καὶ τῶν ἐν τῶι λδ ἔτει
+administration.3708.4.32.lemmas καί ὁ ἐν ὁ λδ ἔτος
+administration.3708.4.33.text Ἀπολλοδώρωι Πτολεμαίου [...]
+administration.3708.4.33.lemmas Ἀπολλόδωρος Πτολεμαῖος _
+administration.3708.5.33.text [...] ξ [...]
+administration.3708.5.33.lemmas _ ͵ξ _
+administration.3708.6.33.text [...]
+administration.3708.6.33.lemmas _
+administration.3708.6.34.text καὶ τῶν μεταβεβηκότων εἰς τὴν κατοικίαν ἐξ ἐφόδων
+administration.3708.6.34.lemmas καί ὁ μεταβαίνω εἰς ὁ κατοικία ἐκ ἔφοδος
+administration.3708.6.35.text Ἀπολλωνίωι Πτολεμαίου ὃν ὁ κωμογραμματεὺς γράφει μετειληφέναι Πτολεμαῖον
+administration.3708.6.35.lemmas Ἀπολλώνιος Πτολεμαῖος ὅς ὁ κωμογραμματεύς γράφω μεταλαμβάνω Πτολεμαῖος
+administration.3708.6.36.text τὸν υἱὸν ἀσπόρου κδ
+administration.3708.6.36.lemmas ὁ υἱός ἄσπορος κδ#
+administration.3708.6.37.text Ἀσκληπιάδου τοῦ Πτολεμαίου ἀσπόρου κδ
+administration.3708.6.37.lemmas Ἀσκληπιάδης ὁ Πτολεμαῖος ἄσπορος κδ#
+administration.3708.6.38.text γίνονται κατοίκων ἱππέων σξη
+administration.3708.6.38.lemmas γίγνομαι κάτοικος ἱππεύς σξη#
+administration.3708.6.39.text ἐρημοφυλάκων τῶν ἐν τῶι λβ ἔτει
+administration.3708.6.39.lemmas ἐρημοφύλαξ ὁ ἐν ὁ λβ# ἔτος
+administration.3708.6.40.text Σαραπίωνος τοῦ Διονυσίου ὃν ὁ κωμογραμματεὺς γράφει μετειληφέναι
+administration.3708.6.40.lemmas Σαραπίων ὁ Διονύσιος ὅς ὁ κωμογραμματεύς γράφω μεταλαμβάνω
+administration.3708.6.41.text Πτολεμαῖον τὸν υἱὸν ἐμβρόχου ι
+administration.3708.6.41.lemmas Πτολεμαῖος ὁ υἱός ἔμβροχος ι#
+administration.3708.6.42.text Διοδώρου τοῦ Εὐκτήμονος ὃν μετειληφέναι Λαγῶν τὸν υἱόν ,
+administration.3708.6.42.lemmas Διόδωρος ὁ Εὐκτήμων ὅς μεταλαμβάνω Λαγών ὁ υἱός ,
+administration.3708.6.43.text παρὰ δὲ τούτου Παγκράτην τὸν υἱὸν ι [...]
+administration.3708.6.43.lemmas παρά δέ οὗτος Παγκράτης ὁ υἱός ι# _
+administration.3708.7.43.text [...]
+administration.3708.7.43.lemmas _
+administration.3708.7.44.text γεωργὸς αὐτός
+administration.3708.7.44.lemmas γεωργός αὐτός
+administration.3708.7.45.text γίνονται κ
+administration.3708.7.45.lemmas γίγνομαι κ#
+administration.3708.7.46.text φυλακιτῶν τῶν ἐν τῶι γγ ἔτει
+administration.3708.7.46.lemmas φυλακίτης ὁ ἐν ὁ γγ# ἔτος
+administration.3708.7.47.text Ἀπολλωνίου τοῦ Ἀχιλλέως ὃν μετειληφέναι Ἀκουσίλαον τὸν υἱὸν ι ὧν
+administration.3708.7.47.lemmas Ἀπολλώνιος ὁ Ἀχιλλεύς ὅς μεταλαμβάνω Ἀκουσίλαος ὁ υἱός ι# ὅς
+administration.3708.7.48.text σπόρος πυρῶι ε χόρτωι β , γίνονται ζ , ἐμβρόχου γ , γεωργὸς [...]
+administration.3708.7.48.lemmas σπόρος πυρός ε# χόρτος β# , γίγνομαι ζ# , ἔμβροχος γ# , γεωργός _
+administration.3720.1.131.text βορρᾶ ἐχόμενος ἀρχομένος ἀπηλιώτου κλῆρος ἱππέως Ἀπολλοδώρου τοῦ Πτολεμαίου
+administration.3720.1.131.lemmas Βορέας ἔχω ἀρχομένος ἀπηλιώτης κλῆρος ἱππεύς Ἀπολλόδωρος ὁ Πτολεμαῖος
+administration.3720.1.132.text τὸ λοιπὸν τῶν ξ μ .
+administration.3720.1.132.lemmas ὁ λοιπός ὁ ͵ξ μ# .
+administration.3720.2.133.text λιβὸς ἐχομένου ἀρχομένου νότου ὑπολόγου ἐμβρόχου τοῦ ἀπὸ τοῦ μ ἔτους δ .
+administration.3720.2.133.lemmas λίψ ἔχω ἄρχω νότος ὑπόλογος ἔμβροχος ὁ ἀπό ὁ μ# ἔτος δ# .
+administration.3720.3.134.text βορρᾶ ἐχόμενος ἐγβαίνων ἀπηλιώτου κλῆρος φυλακίτου Ἀκουσιλάου τοῦ Ἀπολλωνίου
+administration.3720.3.134.lemmas Βορέας ἔχω ἔγβαινος ἀπηλιώτης κλῆρος φυλακίτης Ἀκουσίλαος ὁ Ἀπολλώνιος
+administration.3720.3.135.text τὸ λοιπὸν ζ .
+administration.3720.3.135.lemmas ὁ λοιπός ζ# .
+administration.3720.4.136.text βορρᾶ ἐχομένου ἐγβαίνοντος ἀπηλιώτου ὑδραγωγοῦ ἀρχομένου ἀπηλιώτου α .
+administration.3720.4.136.lemmas Βορέας ἔχω ἐγβαίνω ἀπηλιώτης ὑδραγωγός ἄρχω ἀπηλιώτης α# .
+administration.3720.5.137.text παρακειμένου λιβὸς ἐγβαίνοντος νότου καὶ βορρᾶ ἐξαγωγοῦ β
+administration.3720.5.137.lemmas παράκειμαι λίψ ἐγβαίνω νότος καί Βορέας ἐξαγωγός β#
+administration.3720.5.138.text γίνονται τοῦ περιχώματος
+administration.3720.5.138.lemmas γίγνομαι ὁ περίχωμα
+administration.3720.5.139.text παρακειμένου λιβὸς ἐχομένου ἐγβαίνοντος νότου παρὰ τὴν προγεγεωμετρημένην σχοινίου
+administration.3720.5.139.lemmas παράκειμαι λίψ ἔχω ἐγβαίνω νότος παρά ὁ προγεωμετρέω σχοινίον
+administration.3720.5.140.text ἐν τῶι καλουμένωι Θεμίστου περιχώματι
+administration.3720.5.140.lemmas ἐν ὁ καλέω Θέμιστος περίχωμα
+administration.3720.5.142.text νότου ἐχομένου ἐγβαίνοντος λιβὸς ὑπολόγου ἐμβρόχου α .
+administration.3720.5.142.lemmas νότος ἔχω ἐγβαίνω λίψ ὑπόλογος ἔμβροχος α# .
+administration.3720.6.143.text νότου ἐχομένου ἀρχομένου ἀπηλιώτου ἐξαγωγοῦ ἀπὸ ε α .
+administration.3720.6.143.lemmas νότος ἔχω ἄρχω ἀπηλιώτης ἐξαγωγός ἀπό ε# α# .
+administration.3720.7.144.text λιβὸς ἐχομένου ἀρχομένου νότου ὑπολόγου ἐμβρόχου τοῦ ἕως τοῦ λθ ἔτους δ .
+administration.3720.7.144.lemmas λίψ ἔχω ἄρχω νότος ὑπόλογος ἔμβροχος ὁ ἕως ὁ λθ# ἔτος δ# .
+administration.3720.8.145.text βορρᾶ ἐχόμενον τὸ λοιπὸν τῶν ε τοῦ ἐξαγωγοῦ δ .
+administration.3720.8.145.lemmas Βορέας ἔχω ὁ λοιπός ὁ ε# ὁ ἐξαγωγός δ# .
+administration.3720.9.146.text βορρᾶ ἐχόμενου ὑπολόγου χέρσου τῆς ἕως τοῦ λθ ἔτους γ .
+administration.3720.9.146.lemmas Βορέας ἔχομενος ὑπόλογος χέρσος ὁ ἕως ὁ λθ# ἔτος γ# .
+administration.3720.10.147.text βορρᾶ ἐχομένου ἐγβαίνοντος ἀπηλιώτου ἐξαγωγοῦ 𐅵 .
+administration.3720.10.147.lemmas Βορέας ἔχω ἐγβαίνω ἀπηλιώτης ἐξαγωγός 𐅵 .
+administration.3720.11.148.text βορρᾶ ἐχόμενος ἀρχόμενος λιβὸς κλῆρος ἑκατοντάρουρος Ἀθηνίων Ἀρχίου ἀπὸ τοῦ
+administration.3720.11.148.lemmas Βορέας ἔχω ἄρχω λίψ κλῆρος ἑκατοντάρουρος Ἀθηνίων Ἀρχίας ἀπό ὁ
+administration.3720.11.149.text πρότερον Χαιρήμονος τοῦ Κρατείνου γ , καὶ
+administration.3720.11.149.lemmas πρότερος Χαιρήμων ὁ Κρατείνος γ# , καί
+administration.3720.11.150.text ἀπὸ τοῦ πρότερον Ἡλιοδώρου τοῦ Μηνοδώρου ι ,
+administration.3720.11.150.lemmas ἀπό ὁ πρότερος Ἡλιόδωρος ὁ Μηνόδωρος ι# ,
+administration.3720.11.151.text γίνονται ιγ .
+administration.3720.11.151.lemmas γίγνομαι ιγ# .
+administration.3720.12.152.text ἀπηλιώτου ἐχόμενος κλῆρος ἐφόδου μεταβεβηκότος εἰς τὴν κατοικίαν
+administration.3720.12.152.lemmas ἀπηλιώτης ἔχω κλῆρος ἔφοδος μεταβαίνω εἰς ὁ κατοικία
+administration.3720.12.153.text Ἀσκληπιάδου τοῦ Πτολεμαίου κδ .
+administration.3720.12.153.lemmas Ἀσκληπιάδης ὁ Πτολεμαῖος κδ# .
+administration.3720.13.154.text ἀπηλιώτου ἐχομένης ἀρχομένης νότου ἱερᾶς γῆς Σούχου θεοῦ μεγάλου μεγάλου
+administration.3720.13.154.lemmas ἀπηλιώτης ἔχω ἄρχω νότος ἱερός γῆ Σουχος θεός μέγας μέγας
+administration.3720.13.155.text διὰ Πετειμούθου καὶ Μεστασύτμιος ε 𐅵 .
+administration.3720.13.155.lemmas διά Πετειμουθης καί Μεστασυτμις ε# 𐅵 .
+administration.3720.14.118.text ἀπηλιώτου ἐχομένου ἀρχομένου νότου ἐξαγωγοῦ δ´ .
+administration.3720.14.118.lemmas ἀπηλιώτης ἔχω ἄρχω νότος ἐξαγωγός δ´ .
+administration.3720.15.119.text βορρᾶ ἐχόμενος κλῆρος φυλακίτου Ἀκουσιλάου τοῦ
+administration.3720.15.119.lemmas Βορέας ἔχω κλῆρος φυλακίτης Ἀκουσίλαος ὁ
+administration.3720.15.120.text Ἀπολλωνίου ἀπὸ ι γ .
+administration.3720.15.120.lemmas Ἀπολλώνιος ἀπό ι# γ# .
+administration.3720.16.51.text λιβὸς ἐχομένης ἀρχομένης βορρᾶ Ὀννῶφρις Πετεαρψενήσιος βασιλικῆς ἀπὸ ι
+administration.3720.16.51.lemmas λίψ ἔχω ἄρχω Βορέας Ὀννωφρις Πετεαρψενῆσις βασιλικός ἀπό ι#
+administration.3720.16.52.text παρακείμενον νότου ἐχόμενον τοῦ αὐτοῦ τὸ λοιπὸν τῶν ι ἀρουρῶν .
+administration.3720.16.52.lemmas παράκειμαι νότος ἔχω ὁ αὐτός ὁ λοιπός ὁ ι# ἄρουρα .
+administration.3720.17.53.text ἀπηλιώτου ἐχομένου ἀρχομένου βορρᾶ ὑπολόγου ἁλμυρίδος τοῦ ἀπὸ τοῦ μ ἔτους α 𐅵 .
+administration.3720.17.53.lemmas ἀπηλιώτης ἔχω ἄρχω Βορέας ὑπόλογος ἁλμυρίς ὁ ἀπό ὁ μ# ἔτος α# 𐅵 .
+administration.3720.18.54.text νότοῦ ἐχομένης Φατρῆς Πάσιτος βασιλικῆς δ 𐅵 .
+administration.3720.18.54.lemmas νότος ἔχω Φατρῆς Πᾶσις βασιλικός δ# 𐅵 .
+administration.3720.19.55.text νότου ἐχομένης ἀρχομένης ἀπηλιώτου Ἁρφαῆσις Πετοσίριος βασιλικῆς δ .
+administration.3720.19.55.lemmas νότος ἔχω ἄρχω ἀπηλιώτης Ἁρφαησις Πετοσῖρις βασιλικός δ# .
+administration.3720.20.56.text λιβὸς ἐχομένη διῶρυξ 𐅵 .
+administration.3720.20.56.lemmas λίψ ἔχω διῶρυξ 𐅵 .
+administration.3720.21.57.text λιβὸς ἐχόμενος ἀρχομένος βορρᾶ κλῆρος ἑπτάρουρος Χομήνιος Κόμων Πεχύσιος ϛ 𐅵 ,
+administration.3720.21.57.lemmas λίψ ἔχω ἀρχομένος Βορέας κλῆρος ἑπτάρουρος Χομηνις Κόμων Πεχυσις ϛ# 𐅵 ,
+administration.3720.21.58.text [...]
+administration.3720.21.58.lemmas _
+administration.3720.22.31.text λιβὸς ἐχομένης ὑπολόγου ἁλμυρίδος τοῦ ἀπὸ τοῦ μ ἔτους α .
+administration.3720.22.31.lemmas λίψ ἔχω ὑπόλογος ἁλμυρίς ὁ ἀπό ὁ μ# ἔτος α# .
+administration.3720.23.32.text παρακειμένης λιβὸς ἐχομένης ὁδοῦ 𐅵 .
+administration.3720.23.32.lemmas παράκειμαι λίψ ἔχω ὁδός 𐅵 .
+administration.3720.24.223.text [...]
+administration.3720.24.223.lemmas _
+administration.3720.24.224.text νότου ἐχομένης ἀρχομένης ἀπηλιώτου Πετεσοῦχος Σαραπίωνος
+administration.3720.24.224.lemmas νότος ἔχω ἄρχω ἀπηλιώτης Πετεσοῦχος Σαραπίων
+administration.3720.24.225.text λιβὸς ἐχομένης ἀρχομένης ἀπηλιώτου Πετεσοῦχος Σαραπίωνος
+administration.3720.24.225.lemmas λίψ ἔχω ἄρχω ἀπηλιώτης Πετεσοῦχος Σαραπίων
+administration.3720.24.226.text λιβὸς ἐχομένης ἀνὰ μέσον διώρυγος Θῶνις μέγας Κεντίσιος ἀπὸ τοῦ πρότερον [...]
+administration.3720.24.226.lemmas λίψ ἔχω ἀνά μέσος διώρυγος Θῶνις μέγας Κεντῖσις ἀπό ὁ πρότερος _
+administration.3720.24.227.text τοῦ Πετεαρψενήσιος [...]
+administration.3720.24.227.lemmas ὁ Πετεαρψενῆσις _
+administration.3720.25.227.text [...]
+administration.3720.25.227.lemmas _
+administration.3720.25.00ms.text νγ ἔτους Θὼθ θ .
+administration.3720.25.00ms.lemmas νγ# ἔτος Θωυθ θ# .
+administration.28439.1.1.text Πάτρων Γεμείνου ἐξηγητεύσας καὶ γυμνασιαρχήσας .
+administration.28439.1.1.lemmas Πάτρων Γέμεινος ἐξηγητεύω καί γυμνασιαρχέω .
+administration.28439.2.2.text Κερκήσεως κατοικικῆς ἄρουραι η 𐅷 η´ , ἱερᾶς ἄρουραι ι , ἀνὰ πυροῦ ἀρτάβην α 𐅵 , ἄρουραι γ [...]
+administration.28439.2.2.lemmas Κερ́κησις κατοικικός ἄρουρα η# 𐅷 η´# , ἱερός ἄρουρα ι# , ἀνά πυρός ἀρτάβη α# 𐅵 , ἄρουρα γ# _
+administration.28439.3.2.text [...]
+administration.28439.3.2.lemmas _
+administration.28439.3.3.text ἱερᾶς ἐν ἐκφορίῳ ἀρούρης δ´ η´ λβ´ πυροῦ ἀρτάβαι ριϛ κδ´ , ὧν [...]
+administration.28439.3.3.lemmas ἱερός ἐν ἐκφόριον ἄρουρα δ´ η´# λβ´# πυρός ἀρτάβη ριϛ# κδ´# , ὅς _
+administration.28439.4.3.text [...]
+administration.28439.4.3.lemmas _
+administration.28439.4.4.text καὶ διὰ τῶν τοῦ Ἀρσινοίτου κατοικικῆς ἄρουραι ε 𐅵
+administration.28439.4.4.lemmas καί διά ὁ ὁ Ἀρσινοΐτης κατοικικός ἄρουρα ε# 𐅵
+administration.28439.4.5.text [...] Λουρίου κατοικικῆς ἄρουραι ζ , ἀμπελίτιδος ἄρουραι γ [...]
+administration.28439.4.5.lemmas _ Λούριος κατοικικός ἄρουρα ζ# , ἀμπελῖτις ἄρουρα γ# _
+administration.28439.5.5.text [...]
+administration.28439.5.5.lemmas _
+administration.28439.5.6.text λοιπαὶ ἄρουραι μϛ δ´ η´ ξδ´ πυροῦ ἀρτάβαι πϛ 𐅷 η´ .
+administration.28439.5.6.lemmas λοιπός ἄρουρα μϛ# δ´ η´# ξδ´# πυρός ἀρτάβη πϛ# 𐅷 η´# .
+administration.5430.1.18.text [...]
+administration.5430.1.18.lemmas _
+administration.5430.2.18.text [...]
+administration.5430.2.18.lemmas _
+administration.5430.2.19.text [...]
+administration.5430.2.19.lemmas _
+administration.5430.3.19.text [...] ἐν τῶν ἐν Κροκοδίλων
+administration.5430.3.19.lemmas _ ἐν ὁ ἐν Κροκόδιλος
+administration.5430.3.20.text πόλει κωμαστηρίωι [...]
+administration.5430.3.20.lemmas πόλις κωμαστήριον _
+administration.5430.4.20.text [...] διὰ
+administration.5430.4.20.lemmas _ διά
+administration.5430.4.21.text κήρυκος Δημητρίου [...]
+administration.5430.4.21.lemmas κῆρυξ Δημήτριος _
+administration.5430.5.21.text [...]
+administration.5430.5.21.lemmas _
+administration.5430.5.22.text παραχρῆμα [...]
+administration.5430.5.22.lemmas παραχρῆμα _
+administration.5430.6.22.text [...]
+administration.5430.6.22.lemmas _
+administration.5430.6.23.text χρῆμα [...] [...]
+administration.5430.6.23.lemmas χρῆμα _ _
+administration.5430.7.23.text [...]
+administration.5430.7.23.lemmas _
+administration.5430.7.24.text Παποντῶς Παποντῶτος [...]
+administration.5430.7.24.lemmas Παποντῶς Παποντῶς _
+administration.5430.8.24.text [...]
+administration.5430.8.24.lemmas _
+administration.5430.8.25.text οἴκημα πηχῶν λδ [...]
+administration.5430.8.25.lemmas οἴκημα πῆχυς λδ _
+administration.5430.9.25.text [...]
+administration.5430.9.25.lemmas _
+administration.5430.9.26.text καθότι [...]
+administration.5430.9.26.lemmas καθότι _
+administration.5430.10.26.text [...]
+administration.5430.10.26.lemmas _
+administration.5430.10.27.text Ἀχορίνιος [...]
+administration.5430.10.27.lemmas Ἀχόρινις _
+administration.5430.11.27.text [...]
+administration.5430.11.27.lemmas _
+administration.5430.11.27-28.text Ἡρακλείδου
+administration.5430.11.27-28.lemmas Ἡρακλείδης
+administration.5430.11.28.text [...]
+administration.5430.11.28.lemmas _
+administration.5430.12.28.text [...]
+administration.5430.12.28.lemmas _
+administration.5430.12.29.text [...]
+administration.5430.12.29.lemmas _
+administration.3910.1.1.text γ 𐅵 η´ ιϛ´ ξδ´
+administration.3910.1.1.lemmas γ# 𐅵 η´# ιϛ´# ξδ´#
+administration.3910.1.2.text βορρᾶ ἐχόμεναι ἀρχόμεναι λιβὸς [...] 𐅵 η´ λβ´ β η´ 𐅵 δ´ ιϛ´ [...]
+administration.3910.1.2.lemmas Βορέας ἔχω ἄρχω λίψ _ 𐅵 η´# λβ´# β# η´# 𐅵 δ´ ιϛ´# _
+administration.3910.1.3.text ἀπηλιώτου ἐχόμεναι ἀρχόμεναι [...] διὰ [...] δ´ η´ .
+administration.3910.1.3.lemmas ἀπηλιώτης ἔχω ἄρχω _ διά _ δ´ η´# .
+administration.3910.2.4.text βορρᾶ ἐχόμεναι [...] πρὸς ἴσον α 𐅵 δ´ πρὸς ἴσον 𐅵 δ´ η´ , γίνονται 𐅵 δ´ .
+administration.3910.2.4.lemmas Βορέας ἔχω _ πρός ἴσος α# 𐅵 δ´ πρός ἴσος 𐅵 δ´ η´# , γίγνομαι 𐅵 δ´ .
+administration.3910.3.5.text γίνονται ϛ δ´ η´ ξδ´
+administration.3910.3.5.lemmas γίγνομαι ϛ# δ´ η´# ξδ´#
+administration.3910.3.6.text βορρᾶ ἐχόμεναι ἐγβαίνουσαι λιβὸς παρὰ τὴν προγεγεωμετρημένην σχοινίου 𐅵 δ´ η´ ιϛ´ Φμούεις Παθήβιος δ 𐅵 ἀνὰ δ .
+administration.3910.3.6.lemmas Βορέας ἔχω ἐγβαίνω λίψ παρά ὁ προγεωμετρέω σχοινίον 𐅵 δ´ η´# ιϛ´# Φμούεις Παθῆβις δ# 𐅵 ἀνά δ# .
+administration.3910.4.7.text α 𐅵 δ´ ιϛ´ πρὸς ἴσον β δ´ η´ λβ´ πρὸς ἴσον , γίνονται δ δ´ ιϛ´ ξδ´ ὧν [...]
+administration.3910.4.7.lemmas α# 𐅵 δ´ ιϛ´# πρός ἴσος β# δ´ η´# λβ´# πρός ἴσος , γίγνομαι δ# δ´ ιϛ´# ξδ´# ὅς _
+administration.3910.4.8.text φακῶι τὸ λοιπὸν δ ιϛ´ ξδ´
+administration.3910.4.8.lemmas φακός ὁ λοιπός δ# ιϛ´# ξδ´#
+administration.3910.4.9.text βορρᾶ ἐχόμεναι ἀρχόμεναι λιβὸς εἰσβαίνουσαι λιβὸς παρὰ τὴν ἀγεωμέτρητον τοῦ σχοινίου η´ ιϛ´
+administration.3910.4.9.lemmas Βορέας ἔχω ἄρχω λίψ εἰσβαίνω λίψ παρά ὁ ἀγεωμέτρητος ὁ σχοινίον η´# ιϛ´#
+administration.3910.4.10.text α 𐅵 η´ α η´ ιϛ´ λβ´ α δ´ η´ ιϛ´ 𐅵 δ´ η´ ιϛ´ , γίνονται α 𐅵 η´ ιϛ´ ξδ´
+administration.3910.4.10.lemmas α# 𐅵 η´# α# η´# ιϛ´# λβ´# α# δ´ η´# ιϛ´# 𐅵 δ´ η´# ιϛ´# , γίγνομαι α# 𐅵 η´# ιϛ´# ξδ´#
+administration.3910.4.11.text γίνονται ϛ λβ´ .
+administration.3910.4.11.lemmas γίγνομαι ϛ# λβ´# .
+administration.3910.5.11.text πλείω α 𐅵 .
+administration.3910.5.11.lemmas πολύς α# 𐅵 .
+administration.3910.6.12.text ἀπηλιώτου ἐχόμεναι ἐγβαίνουσαι νότου παρὰ τὴν προγεγεωμετρημένην σχοινία β δ´ η´ λβ´
+administration.3910.6.12.lemmas ἀπηλιώτης ἔχω ἐγβαίνω νότος παρά ὁ προγεωμετρέω σχοινίον β# δ´ η´# λβ´#
+administration.3910.6.13.text ὑπολόγου ἁλμυρίδος τοῦ ἀπὸ τοῦ μ ἔτους β .
+administration.3910.6.13.lemmas ὑπόλογος ἁλμυρίς ὁ ἀπό ὁ μ# ἔτος β# .
+administration.3910.7.14.text δ´ η´ γ 𐅵 η´ πρὸς ἴσον δ´ , γίνονται ἁλμυρίδος α η´ λβ´ .
+administration.3910.7.14.lemmas δ´ η´# γ# 𐅵 η´# πρός ἴσος δ´ , γίγνομαι ἁλμυρίς α# η´# λβ´# .
+administration.3910.8.15.text βορρᾶ ἐχόμενον ἐγβαῖνον λιβὸς παρὰ τὴν προγεγεωμετρημένην σχοινίου 𐅵 δ´ η´ ιϛ´
+administration.3910.8.15.lemmas Βορέας ἔχω ἐγβαῖνος λίψ παρά ὁ προγεωμετρέω σχοινίον 𐅵 δ´ η´# ιϛ´#
+administration.3910.8.16.text τὸ λοιπὸν τοῦ ὑπολόγου
+administration.3910.8.16.lemmas ὁ λοιπός ὁ ὑπόλογος
+administration.3910.8.17.text α η´ ιϛ´ α η´ ιϛ´ α 𐅵 α , γίνονται α 𐅵 η´ λβ´ .
+administration.3910.8.17.lemmas α# η´# ιϛ´# α# η´# ιϛ´# α# 𐅵 α# , γίγνομαι α# 𐅵 η´# λβ´# .
+administration.3910.9.18.text βορρᾶ ἐχόμεναι εἰσβαίνουσαι ἀπηλιώτου παρὰ τὰ περὶ Ταλὶ πεδία σχοινίου 𐅵 δ´ η´ ιϛ´ .
+administration.3910.9.18.lemmas Βορέας ἔχω εἰσβαίνω ἀπηλιώτης παρά ὁ περί Τάλς πεδίον σχοινίον 𐅵 δ´ η´# ιϛ´# .
+administration.3910.10.19.text τὸ λοιπὸν η´ πρὸς ἴσον β η´ πρὸς ἴσον , γίνονται δ´ ξδ´
+administration.3910.10.19.lemmas ὁ λοιπός η´# πρός ἴσος β# η´# πρός ἴσος , γίγνομαι δ´ ξδ´#
+administration.3910.10.20.text γίνονται τοῦ ὑπολόγου γ ιϛ´ .
+administration.3910.10.20.lemmas γίγνομαι ὁ ὑπόλογος γ# ιϛ´# .
+administration.13764.1.8.text ἔτους ιη Αὐτοκράτορος Καίσαρος
+administration.13764.1.8.lemmas ἔτος ιη# Αὐτοκράτωρ Καῖσαρ
+administration.13764.1.9.text Τίτου Αἰλίου Ἁδριανοῦ
+administration.13764.1.9.lemmas Τίτος Αἴλιος Ἁδριανός
+administration.13764.1.10.text Ἀντωνίνου Σεβαστοῦ Εὐσεβοῦς .
+administration.13764.1.10.lemmas Ἀντωνῖνος Σεβαστός Εὐσεβής .
+administration.13764.2.10.text εἴργ ὑπὲρ χωματικῶν ἔργων
+administration.13764.2.10.lemmas εἴργ ὑπέρ χωματικός ἔργον
+administration.13764.2.11.text τοῦ αὐτοῦ ιη ἔτους Παῦνι κη ἕως
+administration.13764.2.11.lemmas ὁ αὐτός ιη# ἔτος Παῦνι κη# ἕως
+administration.13764.2.12.text Ἐπεὶφ β ἐν τῇ δρυμείτιδι διώρυγι Σοκνοπαίου
+administration.13764.2.12.lemmas Ἐπειφ β# ἐν ὁ δρυμεῖτις διῶρυξ Σοκνοπαίος
+administration.13764.2.13.text νήσου Σώτας ὑπὲρ Πανεφρέμμεως ἀπάτορος μητρὸς [...] .
+administration.13764.2.13.lemmas νῆσος Σώτης ὑπέρ Πανεφρεμμις ἀπάτωρ μήτηρ _ .
+administration.13764.3.14.text Σαραπίων σεσημείωμαι .
+administration.13764.3.14.lemmas Σαραπίων σημειόω .
+administration.14458.1.1.text ἔτους κα Μάρκου Αὐρηλίου Σεουήρου
+administration.14458.1.1.lemmas ἔτος κα Μάρκος Αὐρήλιος Σεουῆρος
+administration.14458.1.2.text Ἀντωνείνου Παρθικοῦ Μεγίστου
+administration.14458.1.2.lemmas Ἀντωνεῖνος Παρθικός Μέγιστος
+administration.14458.1.3.text Βρεταννικοῦ Μεγίστου Εὐσεβοῦς Σεβαστοῦ .
+administration.14458.1.3.lemmas Βρεταννικός Μέγιστος Εὐσεβής Σεβαστός .
+administration.14458.2.4.text εἴργασται ὑπὲρ χωματικῶν κα ἔτους Ἐπεὶφ ι ἕως ιδ ἐν διώρυγι
+administration.14458.2.4.lemmas ἐργάζομαι ὑπέρ χωματικός κα ἔτος Ἐπειφ ι# ἕως ιδ# ἐν διῶρυξ
+administration.14458.2.5.text ὀρεινῇ Πολέμωνος Τεπτύνεως πενθήμερον
+administration.14458.2.5.lemmas ὀρεινός Πολέμων Τέπτυνις πενθήμερος
+administration.14458.2.6.text Πρωτᾶς Εὐδαίμονος .
+administration.14458.2.6.lemmas Πρωτᾶς Εὐδαίμων .
