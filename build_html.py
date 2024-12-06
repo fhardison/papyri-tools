@@ -15,7 +15,7 @@ def build_sentences(ss, opath):
         if doc_id != last_doc:
             cons.append(f"<h2>{doc_id}</h2>")
             last_doc = doc_id
-        cons.append('<p>' + ' '.join(words) + '.</p>')
+        cons.append('<p>' + ' '.join(words) + '</p>')
     (MYPATH / Path(f'docs/{opath}.html')).write_text(TEMPLATE.replace('$body$', '\n'.join(cons)))
 
 if __name__ == '__main__':
