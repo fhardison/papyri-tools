@@ -3,7 +3,7 @@ from pathlib import Path
 import enum
 
 
-ChunkType = enum.Enum("ChunkType", "type document sentence row")
+ChunkType = enum.Enum("ChunkType", "type document row")
 TokenType = enum.Enum("TokenType", "text lemma")
 DocumentType = enum.Enum("DocumentType", 'accounts administration contracts declarations labels letters lists other paraliterary pronouncements receipts reports')
 
@@ -82,8 +82,6 @@ def group_by_part_id(chunk_type, lines):
 
         if chunk_type == ChunkType.document:
             output['.'.join(parts[0:2])].extend(words)
-        elif chunk_type == ChunkType.sentence:
-            output['.'.join(parts[0:3])].extend(words)
         elif chunk_type == ChunkType.row:
             output[ref].extend(words)
     return output
@@ -97,4 +95,4 @@ def get_tokens_by_chunk(document_type, token_type, chunk_type):
 
 if __name__ == '__main__':
     #print(get_tokens_by_type(DocumentType.accounts, token_type=TokenType.text))
-    print(get_tokens_by_chunk(DocumentType.accounts, token_type=TokenType.text, chunk_type=ChunkType.sentence))
+    print(get_tokens_by_chunk(DocumentType.accounts, token_type=TokenType.text, chunk_type=ChunkType.document))

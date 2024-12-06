@@ -13,20 +13,28 @@ def parse_xml_sentences(xml_path):
     documents = {}
     sentences_dict = {}
     last_doc = ''
+    rows_dict = {}
+    doc_id = ''
     for sentence in root.findall('sentence'):
         doc_id = sentence.get('document_id')
         if last_doc != doc_id:
             if last_doc != '':
                 documents[last_doc] = sentences_dict
+                documents[last_doc] = rows_dict
+                if last_doc == '31133':
+                    print(len(list(sentences_dict.items())), file=sys.stderr)
+                    print(sentences_dict, file=sys.stderr)
+                    print(rows_dict, file=sys.stderr)
                 # print('new doc', file=sys.stderr)
                 sentences_dict = {}
+                rows_dict = {}
             last_doc = doc_id
         sentence_id = sentence.get('id')
         sentence_info = {}
         for word in sentence.findall('word'):
             row = word.get('row')
             if not row:
-                # print("Row missing", file=sys.stderr)
+                #print("Row missing", file=sys.stderr)
                 continue
             lemma = word.get('lemma', '_')
             normalized = word.get('regularized', '')
@@ -35,11 +43,16 @@ def parse_xml_sentences(xml_path):
 
             word_tuple = (lemma, normalized.replace('|apostrophe|', ''))
             
-            if row not in sentence_info:
-                sentence_info[row] = []
             if row:
+                if row not in sentence_info:
+                    sentence_info[row] = []
+                    rows_dict[row] = []
                 sentence_info[row].append(word_tuple)
+                rows_dict[row].append(word_tuple)
         sentences_dict[sentence_id] = sentence_info
+    if doc_id != '' and doc_id not in documents:
+        documents[doc_id] = rows_dict
+        
     return documents
 
 files = [("Papyri_Accounts.xml", 'accounts'),
@@ -70,13 +83,13 @@ def clear_files():
             f.write('')
 
 
-def process_files(fpath, genre):
+def process_files_old(fpath, genre):
     try:
         #if os.path.exists('')
         with open(f'../papyri_tools/{genre}.txt', 'a', encoding="UTF-8") as f:
             # Replace 'your_xml_file.xml' with the actual path to your XML file
             parsed_sentences = parse_xml_sentences(f'../source/{fpath}')
-            print(len(parsed_sentences), file=sys.stderr)
+            # print(len(parsed_sentences), file=sys.stderr)
             for docid, sentences in parsed_sentences.items():
                 for sent_id, rows in sentences.items():
                     for rowid, words in rows.items():
@@ -93,6 +106,31 @@ def process_files(fpath, genre):
         print("XML file not found.")
 
 
+
+
+def process_files(fpath, genre):
+    try:
+        #if os.path.exists('')
+        with open(f'../papyri_tools/{genre}.txt', 'a', encoding="UTF-8") as f:
+            # Replace 'your_xml_file.xml' with the actual path to your XML file
+            parsed_sentences = parse_xml_sentences(f'../source/{fpath}')
+            # print(len(parsed_sentences), file=sys.stderr)
+            for docid, rows in parsed_sentences.items():
+                for rowid, words in rows.items():
+                    forms = []
+                    lemmas = []
+                    for (lemma, normalized) in words:
+                        lemmas.append(lemma)
+                        forms.append(normalized)
+                    print(f"{genre}.{docid}.{rowid}.text {' '.join(forms)}", file=f)
+                    print(f"{genre}.{docid}.{rowid}.lemmas {' '.join(lemmas)}", file=f)
+    except ET.ParseError as e:
+        print(f"Error parsing XML: {e}")
+    except FileNotFoundError:
+        print("XML file not found.")
+
 clear_files()
+
+# process_files("Papyri_Letters3.xml", 'letters')
 for fdata in files:
     process_files(fdata[0], fdata[1])
