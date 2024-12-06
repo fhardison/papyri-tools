@@ -4,6 +4,8 @@ This repository is modeled on James's Tauber's [`vocabulary-tools`](https://gith
 
 See `main.py` in `papyri_tools` or `build_html.py` in to see how it works.
 
+Included in the `docs` folder are html versions of the documents with Alpheios Reading Tools built in.
+
 # Source
 
 data taken from [duke-nlp project repo](https://github.com/alekkeersmaekers/duke-nlp/tree/master) which is under a [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/) which got it from [Duke Databank of Digital Papyri](https://github.com/papyri/idp.data) which is under a [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) license. The duke-nlp repo requests that it be cited as follows, which I'm doing:  
