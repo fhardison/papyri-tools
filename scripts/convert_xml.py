@@ -7,7 +7,7 @@ import os
 import sys
 
 
-def parse_xml_sentences(xml_path):
+def parse_xml_sentences_old(xml_path):
     tree = ET.parse(xml_path)
     root = tree.getroot()
     documents = {}
@@ -55,6 +55,33 @@ def parse_xml_sentences(xml_path):
         
     return documents
 
+
+
+def parse_xml_sentences(xml_path):
+    tree = ET.parse(xml_path)
+    root = tree.getroot()
+    documents = defaultdict(dict)
+    last_doc = ''
+    doc_id = ''
+    for sentence in root.findall('sentence'):
+        for word in sentence.findall('word'):
+            row = word.get('row')
+            docid = word.get('texid')
+            if (not row) or (not docid):
+                #print("Row missing", file=sys.stderr)
+                continue
+            lemma = word.get('lemma', '_')
+            normalized = word.get('regularized', '')
+            if lemma == '_' or 'gap' in normalized:
+                normalized= '[...]'
+            word_tuple = (lemma, normalized.replace('|apostrophe|', ''))
+        
+            if row:
+                if not row in documents[docid]:
+                    documents[docid][row] = []
+                documents[docid][row].append(word_tuple)
+    return documents
+
 files = [("Papyri_Accounts.xml", 'accounts'),
 ("Papyri_Administration.xml", 'administration'),
 ("Papyri_Contracts1.xml", 'contracts'),
@@ -89,7 +116,7 @@ def process_files_old(fpath, genre):
         with open(f'../papyri_tools/{genre}.txt', 'a', encoding="UTF-8") as f:
             # Replace 'your_xml_file.xml' with the actual path to your XML file
             parsed_sentences = parse_xml_sentences(f'../source/{fpath}')
-            # print(len(parsed_sentences), file=sys.stderr)
+            print(len(parsed_sentences), file=sys.stderr)
             for docid, sentences in parsed_sentences.items():
                 for sent_id, rows in sentences.items():
                     for rowid, words in rows.items():
@@ -106,7 +133,11 @@ def process_files_old(fpath, genre):
         print("XML file not found.")
 
 
-
+def toint(x):
+    if '-' in x:
+        return int(x.split('-')[-1])
+    else:
+        return int(x)
 
 def process_files(fpath, genre):
     try:
@@ -114,7 +145,7 @@ def process_files(fpath, genre):
         with open(f'../papyri_tools/{genre}.txt', 'a', encoding="UTF-8") as f:
             # Replace 'your_xml_file.xml' with the actual path to your XML file
             parsed_sentences = parse_xml_sentences(f'../source/{fpath}')
-            # print(len(parsed_sentences), file=sys.stderr)
+            print(len(parsed_sentences.items()), file=sys.stderr)
             for docid, rows in parsed_sentences.items():
                 for rowid, words in rows.items():
                     forms = []
@@ -131,6 +162,8 @@ def process_files(fpath, genre):
 
 clear_files()
 
-# process_files("Papyri_Letters3.xml", 'letters')
+#process_files("Papyri_Letters3.xml", 'letters')
+#exit()
 for fdata in files:
+    print(fdata, file=sys.stderr)
     process_files(fdata[0], fdata[1])
